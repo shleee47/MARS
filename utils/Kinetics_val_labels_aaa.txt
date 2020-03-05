@@ -1,0 +1,9 @@
+../dataset/Kinetics/val/abseiling/0007-001_000019_000029 0 246
+../dataset/Kinetics/val/abseiling/0005-002_000017_000027 0 244
+../dataset/Kinetics/val/abseiling/0005-001_000007_000017 0 246
+../dataset/Kinetics/val/abseiling/0008-003_000030_000040 0 248
+../dataset/Kinetics/val/abseiling/0008-001_000010_000020 0 248
+../dataset/Kinetics/val/abseiling/0003-001_000050_000060 0 250
+../dataset/Kinetics/val/abseiling/0006-001_000006_000016 0 239
+../dataset/Kinetics/val/abseiling/0008-002_000020_000030 0 248
+../dataset/Kinetics/val/abseiling/0003-002_000060_000070 0 250

@@ -1,0 +1,1240 @@
+../dataset/Kinetics/val/playing trombone/2iNQICDlOSk_000481_000491 247 171
+../dataset/Kinetics/val/playing trombone/2LBsevI3Cd8_000148_000158 247 252
+../dataset/Kinetics/val/cooking chicken/4GIH3JYb6no_000060_000070 70 250
+../dataset/Kinetics/val/cooking chicken/48549nP_RtU_000244_000254 70 252
+../dataset/Kinetics/val/riding mechanical bull/1PzUXnZ_Yfs_000002_000012 270 252
+../dataset/Kinetics/val/riding mechanical bull/16iXKmhZ-ko_000039_000049 270 252
+../dataset/Kinetics/val/climbing tree/-0Mfuocujdg_000000_000010 68 252
+../dataset/Kinetics/val/using remote controller (not gaming)/2NSWLOem1TU_000045_000055 374 250
+../dataset/Kinetics/val/using remote controller (not gaming)/3e05mOB8Gvc_000021_000031 374 252
+../dataset/Kinetics/val/paragliding/-errNPiGXF4_000039_000049 205 252
+../dataset/Kinetics/val/paragliding/2DBSZcOBQ_Q_000094_000104 205 252
+../dataset/Kinetics/val/strumming guitar/-7mJ12n-xyM_000126_000136 335 252
+../dataset/Kinetics/val/strumming guitar/-2GJPqAglxU_000862_000872 335 252
+../dataset/Kinetics/val/riding scooter/-RfExGxPfSk_000007_000017 274 252
+../dataset/Kinetics/val/riding scooter/0uxtqCy2nUI_000008_000018 274 194
+../dataset/Kinetics/val/dining/-vOrVT1CiPQ_000080_000090 91 252
+../dataset/Kinetics/val/dining/0fp_LpMTbfg_000170_000180 91 252
+../dataset/Kinetics/val/news anchoring/-kmzssWKO-o_000029_000039 202 252
+../dataset/Kinetics/val/answering questions/-ejLPB4J4SM_000106_000116 2 252
+../dataset/Kinetics/val/answering questions/-egPJubR-CE_000001_000011 2 252
+../dataset/Kinetics/val/surfing water/-G_tgkmqChg_000072_000082 337 250
+../dataset/Kinetics/val/surfing water/-6UpPdfVoyg_000047_000057 337 252
+../dataset/Kinetics/val/lunge/0vBNG4HtmAE_000004_000014 183 252
+../dataset/Kinetics/val/lunge/2_7hsQnVGvk_000012_000022 183 252
+../dataset/Kinetics/val/making tea/-0r6NmrdKCU_000043_000053 191 252
+../dataset/Kinetics/val/making tea/--7qK_w-g3Y_000185_000195 191 250
+../dataset/Kinetics/val/crossing river/-al8APBDtEg_000003_000013 78 252
+../dataset/Kinetics/val/crossing river/-6HHK4EV5yU_000035_000045 78 250
+../dataset/Kinetics/val/pumping gas/-LsxVKO78Fg_000093_000103 257 252
+../dataset/Kinetics/val/reading newspaper/0LH6n81tyds_000010_000020 265 228
+../dataset/Kinetics/val/fixing hair/-3cPJnxtl7U_000095_000105 128 250
+../dataset/Kinetics/val/fixing hair/-65aI53dvdE_000022_000032 128 252
+../dataset/Kinetics/val/playing bagpipes/-Wx7UjNi3uU_000010_000020 219 252
+../dataset/Kinetics/val/playing bagpipes/-2jAdijiM14_000044_000054 219 252
+../dataset/Kinetics/val/sword fighting/Kja3S8nhrmU_000081_000091 345 251
+../dataset/Kinetics/val/sword fighting/PqRe2KalvkE_000022_000032 345 252
+../dataset/Kinetics/val/sword fighting/bPHsWugu78s_000119_000129 345 252
+../dataset/Kinetics/val/sword fighting/EU_1MKTNEUU_000037_000047 345 252
+../dataset/Kinetics/val/sword fighting/_kcVbo4E2JQ_000101_000111 345 252
+../dataset/Kinetics/val/sword fighting/siHWPg1-2eM_000200_000210 345 252
+../dataset/Kinetics/val/sword fighting/JpLrWNjyaQU_000027_000037 345 252
+../dataset/Kinetics/val/sword fighting/V0g0Ppf2ZDk_000000_000010 345 252
+../dataset/Kinetics/val/sword fighting/wC3IpGS5o5U_000017_000027 345 252
+../dataset/Kinetics/val/sword fighting/kt0cJQLEWy0_000021_000031 345 252
+../dataset/Kinetics/val/sword fighting/rLS3IgNROgo_000021_000031 345 250
+../dataset/Kinetics/val/sword fighting/dygKWahj16U_000087_000097 345 252
+../dataset/Kinetics/val/sword fighting/x4Img8HKxJ4_000034_000044 345 252
+../dataset/Kinetics/val/sword fighting/HFHdSUu1iJ4_000066_000076 345 252
+../dataset/Kinetics/val/sword fighting/VsQ3uFHTeU4_000007_000017 345 252
+../dataset/Kinetics/val/sword fighting/kt8EnaL1xdU_000007_000017 345 217
+../dataset/Kinetics/val/sword fighting/AUfpa3rAXpI_000001_000011 345 252
+../dataset/Kinetics/val/sword fighting/diryGRYvb-M_000005_000015 345 249
+../dataset/Kinetics/val/sword fighting/QEMrisQ7bXI_000037_000047 345 252
+../dataset/Kinetics/val/sword fighting/v_Ea9flmoHM_000069_000079 345 252
+../dataset/Kinetics/val/sword fighting/wV7OgMM4I28_000109_000119 345 252
+../dataset/Kinetics/val/sword fighting/d9ELWl9-8NE_000003_000013 345 226
+../dataset/Kinetics/val/sword fighting/EuRuxPSjgn8_000052_000062 345 252
+../dataset/Kinetics/val/sword fighting/VH7Z2Bolvt4_000002_000012 345 250
+../dataset/Kinetics/val/sword fighting/D3rswXHTorc_000010_000020 345 250
+../dataset/Kinetics/val/sword fighting/U3bcWXDWICY_000077_000087 345 252
+../dataset/Kinetics/val/sword fighting/7G7e9f0E-Xk_000042_000052 345 252
+../dataset/Kinetics/val/sword fighting/G2-gqXeZ31A_000012_000022 345 249
+../dataset/Kinetics/val/sword fighting/EXza4JiRURc_000002_000012 345 252
+../dataset/Kinetics/val/sword fighting/KyeBtTxF9-Y_000000_000010 345 252
+../dataset/Kinetics/val/sword fighting/82Y4aV50ALU_000088_000098 345 252
+../dataset/Kinetics/val/sword fighting/-mx34h7Cfik_000008_000018 345 250
+../dataset/Kinetics/val/sword fighting/n2wjB7bKiA8_000000_000010 345 252
+../dataset/Kinetics/val/sword fighting/cdAGE45zrCU_000113_000123 345 252
+../dataset/Kinetics/val/sword fighting/MPVIX-cKe3I_000000_000010 345 252
+../dataset/Kinetics/val/sword fighting/ZRCg4Y8MMgg_000000_000010 345 250
+../dataset/Kinetics/val/sword fighting/kuvCR43h0yU_000001_000011 345 252
+../dataset/Kinetics/val/sword fighting/WilGS1NzncU_000029_000039 345 252
+../dataset/Kinetics/val/sword fighting/RxpzrbAdOu0_000031_000041 345 252
+../dataset/Kinetics/val/sword fighting/PCKD6J3760M_000026_000036 345 250
+../dataset/Kinetics/val/sword fighting/UCa9gsGh-gI_000003_000013 345 249
+../dataset/Kinetics/val/sword fighting/K76Ezw4EbiM_000134_000144 345 250
+../dataset/Kinetics/val/snowmobiling/20gCvLBfyzQ_000069_000079 324 250
+../dataset/Kinetics/val/snowmobiling/1a_Zi7bW3g8_000006_000016 324 250
+../dataset/Kinetics/val/cutting watermelon/-5M3vGKRUWQ_000054_000064 83 251
+../dataset/Kinetics/val/brush painting/-54Ntbjeiis_000104_000114 35 250
+../dataset/Kinetics/val/brush painting/-JHvT2pywbo_000978_000988 35 252
+../dataset/Kinetics/val/swing dancing/20mnWo6jXGQ_000010_000020 342 252
+../dataset/Kinetics/val/swing dancing/-Y-fUYGcb7o_000049_000059 342 250
+../dataset/Kinetics/val/folding clothes/-BABPsEWA54_000037_000047 131 252
+../dataset/Kinetics/val/waxing chest/-8h42AaoMnc_000020_000030 387 252
+../dataset/Kinetics/val/waxing chest/-081qTv9fXc_000216_000226 387 252
+../dataset/Kinetics/val/shaking hands/-oR77BgphxA_000000_000010 288 197
+../dataset/Kinetics/val/shaking hands/52ApksnCeBw_000010_000020 288 202
+../dataset/Kinetics/val/cleaning floor/0aepX3PJqzw_000002_000012 60 252
+../dataset/Kinetics/val/cleaning floor/-8JbMlvZOxs_000030_000040 60 252
+../dataset/Kinetics/val/curling hair/6OiW_58NNZI_000117_000127 80 252
+../dataset/Kinetics/val/curling hair/7luVmTjPu64_000008_000018 80 177
+../dataset/Kinetics/val/giving or receiving award/--kbTDDIiP0_000062_000072 140 250
+../dataset/Kinetics/val/giving or receiving award/0lya888dgZ0_000565_000575 140 252
+../dataset/Kinetics/val/playing organ/2CtUf-Oj2a4_000063_000073 239 250
+../dataset/Kinetics/val/playing organ/32NeaEmNlQo_000010_000020 239 252
+../dataset/Kinetics/val/eating cake/2mFclrl0wo8_000044_000054 110 229
+../dataset/Kinetics/val/eating cake/0pQACKjlllc_000002_000012 110 217
+../dataset/Kinetics/val/walking the dog/-1RxG3SJZfY_000103_000113 378 205
+../dataset/Kinetics/val/bench pressing/-3Ck7V6iqPk_000008_000018 19 120
+../dataset/Kinetics/val/bench pressing/3q0f6BJx_V8_000002_000012 19 106
+../dataset/Kinetics/val/drumming fingers/2vkHjrw61c0_000000_000010 106 252
+../dataset/Kinetics/val/drumming fingers/1GqGiu7E5FQ_000060_000070 106 252
+../dataset/Kinetics/val/riding unicycle/-C9Tbfz0LRw_000158_000168 275 250
+../dataset/Kinetics/val/riding unicycle/0tHJCi6G4S4_000153_000163 275 252
+../dataset/Kinetics/val/slacklining/-gn_eC6qOk0_000101_000111 313 250
+../dataset/Kinetics/val/slacklining/22DPfGQqchY_000017_000027 313 252
+../dataset/Kinetics/val/crawling baby/-N5C2S2KW80_000018_000028 77 194
+../dataset/Kinetics/val/crawling baby/-0NOgzGpSEY_000003_000013 77 252
+../dataset/Kinetics/val/whistling/3giZedEDX-s_000089_000099 392 250
+../dataset/Kinetics/val/whistling/-DTRPyv-DVI_000000_000010 392 151
+../dataset/Kinetics/val/unloading truck/-aKzhHxNXDo_000066_000076 372 252
+../dataset/Kinetics/val/unloading truck/-gw4REc9KqA_000006_000016 372 252
+../dataset/Kinetics/val/frying vegetables/-DhAghDNh60_000084_000094 135 252
+../dataset/Kinetics/val/ice fishing/-0N5cgaMCfY_000316_000326 163 252
+../dataset/Kinetics/val/ice fishing/-QfN6xAteC4_000004_000014 163 252
+../dataset/Kinetics/val/hugging/-41x69LV3D4_000075_000085 158 252
+../dataset/Kinetics/val/hugging/-FWfQhqFoYc_000061_000071 158 250
+../dataset/Kinetics/val/waxing legs/-q1rHTApl_I_000058_000068 389 252
+../dataset/Kinetics/val/golf chipping/-uq6sWx0g_w_000129_000139 141 252
+../dataset/Kinetics/val/golf chipping/-khmO1mLnoA_000143_000153 141 250
+../dataset/Kinetics/val/parkour/-6KNHzXeYKo_000173_000183 207 251
+../dataset/Kinetics/val/parkour/-6ykAmBXIr0_000013_000023 207 252
+../dataset/Kinetics/val/driving tractor/-9ad9yaPkKY_000008_000018 104 160
+../dataset/Kinetics/val/driving tractor/--9s8lCov-I_000002_000012 104 249
+../dataset/Kinetics/val/drinking beer/-A7PrCTRvOY_000263_000273 101 250
+../dataset/Kinetics/val/drinking beer/-6WPrWe4IHg_000024_000034 101 252
+../dataset/Kinetics/val/ripping paper/-94nreFhQRg_000020_000030 276 164
+../dataset/Kinetics/val/ripping paper/-Ovwq0kVUx4_000002_000012 276 252
+../dataset/Kinetics/val/making snowman/-iS_ct6yvgA_000010_000020 189 135
+../dataset/Kinetics/val/making snowman/0KU0nzwWa0g_000110_000120 189 252
+../dataset/Kinetics/val/massaging feet/4V-PyVAgTtg_000027_000037 194 252
+../dataset/Kinetics/val/massaging feet/-bONQxgHBEc_000188_000198 194 252
+../dataset/Kinetics/val/tossing salad/-12y8XXUDOA_000164_000174 362 252
+../dataset/Kinetics/val/tossing salad/0RnlrsxG1hY_000002_000012 362 252
+../dataset/Kinetics/val/country line dancing/1TzGn3qcsTk_000069_000079 75 250
+../dataset/Kinetics/val/country line dancing/1rsLh2kG96A_000106_000116 75 119
+../dataset/Kinetics/val/smoking/-3D9cHBM4bo_000027_000037 316 252
+../dataset/Kinetics/val/smoking/-0vzKnJrPQs_000096_000106 316 252
+../dataset/Kinetics/val/eating chips/-7784_WqE1E_000016_000026 112 252
+../dataset/Kinetics/val/eating chips/-AhebSCahUM_000462_000472 112 252
+../dataset/Kinetics/val/shearing sheep/-5o48YgRlkQ_000675_000685 294 252
+../dataset/Kinetics/val/shearing sheep/1WqYcl4nNCE_000021_000031 294 148
+../dataset/Kinetics/val/bowling/-jOClYqKtE8_000003_000013 31 250
+../dataset/Kinetics/val/bowling/--dVV4_CSvw_000033_000043 31 250
+../dataset/Kinetics/val/drinking shots/0fmNdKx4cdI_000003_000013 102 252
+../dataset/Kinetics/val/drinking shots/1BkmCXHttEQ_000012_000022 102 121
+../dataset/Kinetics/val/snowboarding/0ZYTt4o2amM_000161_000171 322 252
+../dataset/Kinetics/val/snowboarding/0i5IfU3yOxg_001259_001269 322 252
+../dataset/Kinetics/val/petting cat/24cgfaG8WI0_000014_000024 213 250
+../dataset/Kinetics/val/petting cat/2eigAnTVfTU_000042_000052 213 252
+../dataset/Kinetics/val/pumping fist/-8F5ATqM1vw_000069_000079 256 252
+../dataset/Kinetics/val/pumping fist/2KjgwQP_-Os_000004_000014 256 166
+../dataset/Kinetics/val/egg hunting/2tI7p9D9AT8_000407_000417 118 252
+../dataset/Kinetics/val/egg hunting/1Ld9WmSz1xc_000099_000109 118 252
+../dataset/Kinetics/val/digging/--ILYNHl3e4_000541_000551 90 252
+../dataset/Kinetics/val/digging/-5LEMasZdOc_000015_000025 90 252
+../dataset/Kinetics/val/throwing axe/-jqSV_7Ysho_000007_000017 356 252
+../dataset/Kinetics/val/throwing axe/1lJUKDvku50_000002_000012 356 116
+../dataset/Kinetics/val/busking/-vxNdkgPqzg_000033_000043 41 252
+../dataset/Kinetics/val/busking/09ZMT8HT0DA_000030_000040 41 252
+../dataset/Kinetics/val/playing controller/1WDK-6bTREE_000311_000321 226 236
+../dataset/Kinetics/val/playing controller/2yB9Ajv5OR8_000292_000302 226 250
+../dataset/Kinetics/val/tapping guitar/268PcyxU4kE_000346_000356 350 250
+../dataset/Kinetics/val/tapping guitar/-Hvl2ZcvTUw_000000_000010 350 252
+../dataset/Kinetics/val/grooming dog/-9BGMU4WYMg_000218_000228 145 252
+../dataset/Kinetics/val/grooming dog/-3zcsBnDVzU_000053_000063 145 252
+../dataset/Kinetics/val/trimming or shaving beard/-8xkFjix8cc_000130_000140 365 252
+../dataset/Kinetics/val/trimming or shaving beard/-1FlCGo8M4E_000574_000584 365 252
+../dataset/Kinetics/val/building shed/04fFektD3CQ_000397_000407 39 252
+../dataset/Kinetics/val/building shed/-jLDOqR6XsI_000472_000482 39 252
+../dataset/Kinetics/val/doing laundry/-6I88CkC6iI_000047_000057 96 250
+../dataset/Kinetics/val/doing laundry/0HN9Iz8MoYU_000006_000016 96 252
+../dataset/Kinetics/val/crying/-73Kg-MKmwE_000010_000020 79 250
+../dataset/Kinetics/val/crying/-1Te0BM0oU8_000000_000010 79 252
+../dataset/Kinetics/val/motorcycling/-0Li7rc78jQ_000128_000138 199 252
+../dataset/Kinetics/val/motorcycling/-0L4fgr5GE0_000001_000011 199 252
+../dataset/Kinetics/val/pushing cart/-dSUldceBAA_000031_000041 262 242
+../dataset/Kinetics/val/pushing cart/-yBv6i44XAE_000032_000042 262 252
+../dataset/Kinetics/val/barbequing/-43p5IQaY18_000383_000393 14 252
+../dataset/Kinetics/val/barbequing/-aEZkNQQPLw_000046_000056 14 252
+../dataset/Kinetics/val/washing hands/-1Hub6Ps_cc_000047_000057 382 252
+../dataset/Kinetics/val/washing hands/-BL2GD3GBfE_000592_000602 382 252
+../dataset/Kinetics/val/blasting sand/0BGTfQfQ8i0_000099_000109 23 252
+../dataset/Kinetics/val/punching person (boxing)/UL0MlmAzn6Y_000376_000386 259 252
+../dataset/Kinetics/val/punching person (boxing)/-PW6kckornM_000008_000018 259 250
+../dataset/Kinetics/val/punching person (boxing)/GCeJ0S7BWj4_000342_000352 259 252
+../dataset/Kinetics/val/punching person (boxing)/FS-OtWTdhZk_000018_000028 259 252
+../dataset/Kinetics/val/punching person (boxing)/59-9QPuRgVs_000036_000046 259 252
+../dataset/Kinetics/val/punching person (boxing)/jpjRqIqSX2U_000688_000698 259 250
+../dataset/Kinetics/val/punching person (boxing)/JygCN8HSbcQ_000007_000017 259 252
+../dataset/Kinetics/val/punching person (boxing)/SV4xsPUYjP0_000074_000084 259 252
+../dataset/Kinetics/val/punching person (boxing)/1OnrPst_Cxs_000000_000010 259 252
+../dataset/Kinetics/val/punching person (boxing)/tTF7h1fwZeg_000381_000391 259 252
+../dataset/Kinetics/val/punching person (boxing)/Cs-CfeLNspE_000126_000136 259 250
+../dataset/Kinetics/val/punching person (boxing)/Je5KsM6aUc0_000011_000021 259 252
+../dataset/Kinetics/val/punching person (boxing)/iWdhlucxCow_000085_000095 259 252
+../dataset/Kinetics/val/punching person (boxing)/3B0kzEJ76aU_000047_000057 259 250
+../dataset/Kinetics/val/punching person (boxing)/TPZkjJgcHZg_000032_000042 259 252
+../dataset/Kinetics/val/punching person (boxing)/qJ4wFQEhFvU_000013_000023 259 252
+../dataset/Kinetics/val/punching person (boxing)/BKKZwGtb0HQ_000140_000150 259 250
+../dataset/Kinetics/val/punching person (boxing)/xxWhTcGLnNM_000015_000025 259 252
+../dataset/Kinetics/val/punching person (boxing)/RSFPNoAqd2w_000055_000065 259 218
+../dataset/Kinetics/val/punching person (boxing)/D5iLGttoHr4_000022_000032 259 252
+../dataset/Kinetics/val/punching person (boxing)/iZabHOHLXyE_000269_000279 259 252
+../dataset/Kinetics/val/punching person (boxing)/ZQ3UN79bpWM_000065_000075 259 252
+../dataset/Kinetics/val/punching person (boxing)/aEfN-E9ZGTo_000209_000219 259 252
+../dataset/Kinetics/val/punching person (boxing)/tEdzFdrwopw_000008_000018 259 252
+../dataset/Kinetics/val/punching person (boxing)/Rdx4XofKACw_000021_000031 259 168
+../dataset/Kinetics/val/punching person (boxing)/Ogjo5L4kbtc_000045_000055 259 250
+../dataset/Kinetics/val/punching person (boxing)/V_rNt-FNMX8_000034_000044 259 250
+../dataset/Kinetics/val/punching person (boxing)/6xJjmvMgRs4_000187_000197 259 252
+../dataset/Kinetics/val/punching person (boxing)/b21vN3Tgm1Y_000051_000061 259 252
+../dataset/Kinetics/val/punching person (boxing)/uQRBFQp_i_U_000143_000153 259 252
+../dataset/Kinetics/val/punching person (boxing)/gMIP_VRelEc_000014_000024 259 250
+../dataset/Kinetics/val/punching person (boxing)/cuoqBzkii1Q_000094_000104 259 252
+../dataset/Kinetics/val/punching person (boxing)/GfUWoo5NQxg_000010_000020 259 252
+../dataset/Kinetics/val/punching person (boxing)/qdeJoFRiqEY_000291_000301 259 252
+../dataset/Kinetics/val/punching person (boxing)/9fEKX0jlAJs_000095_000105 259 252
+../dataset/Kinetics/val/punching person (boxing)/EzVsl4ZXUl8_000146_000156 259 252
+../dataset/Kinetics/val/punching person (boxing)/hmXNRnf2gwk_000192_000202 259 252
+../dataset/Kinetics/val/punching person (boxing)/aYLvxq4Ox6A_000108_000118 259 250
+../dataset/Kinetics/val/punching person (boxing)/I8UkuuTsmOo_000021_000031 259 250
+../dataset/Kinetics/val/punching person (boxing)/BqdjAlbg9XE_000021_000031 259 252
+../dataset/Kinetics/val/punching person (boxing)/LQmy-JW6tbA_000042_000052 259 252
+../dataset/Kinetics/val/punching person (boxing)/dQ0cG_xaPeU_000149_000159 259 250
+../dataset/Kinetics/val/water sliding/-pHrb1FLXfY_000011_000021 384 252
+../dataset/Kinetics/val/water sliding/-66lIjamXMA_000034_000044 384 250
+../dataset/Kinetics/val/pull ups/--rd8woSLiM_000041_000051 255 249
+../dataset/Kinetics/val/pull ups/0vMCq_b2nFo_000019_000029 255 252
+../dataset/Kinetics/val/high kick/-5klnjYyA6o_000002_000012 152 177
+../dataset/Kinetics/val/high kick/BGbKbr0c-9Y_000004_000014 152 136
+../dataset/Kinetics/val/high kick/Jozpg64DEh0_000002_000012 152 170
+../dataset/Kinetics/val/high kick/RYl3hSCPbmQ_000068_000078 152 250
+../dataset/Kinetics/val/high kick/uIZ7gdl30IA_000001_000011 152 208
+../dataset/Kinetics/val/high kick/Z8MTnz9TYmQ_000000_000010 152 250
+../dataset/Kinetics/val/high kick/tou4edMARHI_000003_000013 152 252
+../dataset/Kinetics/val/high kick/NdjLKFhn9j0_000004_000014 152 108
+../dataset/Kinetics/val/high kick/b7-jU2adf_Q_000010_000020 152 252
+../dataset/Kinetics/val/high kick/OpykVaB7chc_000014_000024 152 252
+../dataset/Kinetics/val/high kick/dtLFYnfQ5Jk_000024_000034 152 230
+../dataset/Kinetics/val/high kick/oah6SJdIcog_000001_000011 152 234
+../dataset/Kinetics/val/high kick/JT2N2UdxMj0_000000_000010 152 252
+../dataset/Kinetics/val/high kick/zhrC4tzEaRA_000002_000012 152 213
+../dataset/Kinetics/val/high kick/7fXf3Q3OGzk_000049_000059 152 250
+../dataset/Kinetics/val/high kick/KiTFSKD_Bjo_000001_000011 152 250
+../dataset/Kinetics/val/high kick/-BzpQMUsy0Y_000004_000014 152 252
+../dataset/Kinetics/val/high kick/1e-yLDRbDhE_000075_000085 152 252
+../dataset/Kinetics/val/high kick/TjINmKzwlNU_000090_000100 152 252
+../dataset/Kinetics/val/high kick/Hg6I3C4T8cQ_000002_000012 152 64
+../dataset/Kinetics/val/high kick/29UZwtjIIL8_000095_000105 152 250
+../dataset/Kinetics/val/high kick/Iv7vIzlyYMA_000007_000017 152 252
+../dataset/Kinetics/val/high kick/3OpHDHamUTE_000006_000016 152 218
+../dataset/Kinetics/val/high kick/WEuSf2f3hQs_000006_000016 152 252
+../dataset/Kinetics/val/high kick/-toLFfiQnzc_000015_000025 152 252
+../dataset/Kinetics/val/high kick/JrL5pD0BeHo_000002_000012 152 137
+../dataset/Kinetics/val/high kick/31uPgVZtekA_000149_000159 152 252
+../dataset/Kinetics/val/high kick/q2DUuFtydQs_000044_000054 152 250
+../dataset/Kinetics/val/high kick/WhSFIJlMI-g_000002_000012 152 252
+../dataset/Kinetics/val/high kick/6sKNC9lqM9g_000020_000030 152 196
+../dataset/Kinetics/val/high kick/qB1taWnnMag_000050_000060 152 252
+../dataset/Kinetics/val/high kick/pYK0EYz_xq4_000003_000013 152 252
+../dataset/Kinetics/val/high kick/AHp7S427fQE_000021_000031 152 252
+../dataset/Kinetics/val/high kick/82dmu47t3vU_000079_000089 152 252
+../dataset/Kinetics/val/high kick/vqlEmoU03Jk_000173_000183 152 252
+../dataset/Kinetics/val/high kick/mXaHzzGXEZ0_000054_000064 152 252
+../dataset/Kinetics/val/high kick/OTKvwdyTuKg_000006_000016 152 215
+../dataset/Kinetics/val/high kick/1t5_fu6IRoQ_000017_000027 152 252
+../dataset/Kinetics/val/high kick/z72f8hrOk3g_000216_000226 152 252
+../dataset/Kinetics/val/high kick/n_L--_pT5MU_000009_000019 152 250
+../dataset/Kinetics/val/high kick/uDvm3QQr2oA_000045_000055 152 252
+../dataset/Kinetics/val/swinging legs/4kHHkmsEmd8_000002_000012 343 82
+../dataset/Kinetics/val/ski jumping/-dPNq0rGTDo_000078_000088 307 244
+../dataset/Kinetics/val/ski jumping/-8PnKOdaKN8_000029_000039 307 250
+../dataset/Kinetics/val/riding or walking with horse/4luNHEnvxNo_000011_000021 273 177
+../dataset/Kinetics/val/riding or walking with horse/-ApPJCMjZVg_000114_000124 273 252
+../dataset/Kinetics/val/high jump/0oL36GHlSXw_000022_000032 151 250
+../dataset/Kinetics/val/high jump/01fAWEHzudA_000002_000012 151 252
+../dataset/Kinetics/val/shooting basketball/0sCSK1Ox5Ts_000046_000056 296 250
+../dataset/Kinetics/val/shooting basketball/0MG3pzym-G8_000002_000012 296 252
+../dataset/Kinetics/val/getting a tattoo/-0COMyPvkHU_000061_000071 139 252
+../dataset/Kinetics/val/getting a tattoo/-m-YKP0ReEE_000144_000154 139 252
+../dataset/Kinetics/val/playing basketball/0zTKKv_g0CY_000223_000233 220 237
+../dataset/Kinetics/val/playing basketball/3mIvIgAlniY_000001_000011 220 252
+../dataset/Kinetics/val/bee keeping/-18X6h92xpw_000024_000034 17 250
+../dataset/Kinetics/val/bee keeping/0M1SkaJJcV0_000191_000201 17 244
+../dataset/Kinetics/val/gargling/0vArIdzT4K4_000296_000306 137 250
+../dataset/Kinetics/val/gargling/0jpK6zhdxjo_000018_000028 137 252
+../dataset/Kinetics/val/squat/1tVdeA7tJpk_000236_000246 330 252
+../dataset/Kinetics/val/squat/1S0f3iBwy4o_000004_000014 330 24
+../dataset/Kinetics/val/hurdling/-zA6BKg9ni4_000001_000011 160 252
+../dataset/Kinetics/val/hurdling/0uXd4qQfICw_000026_000036 160 252
+../dataset/Kinetics/val/mopping floor/-F-aEPmjERo_000043_000053 198 159
+../dataset/Kinetics/val/mopping floor/-A28Ss9rock_000002_000012 198 249
+../dataset/Kinetics/val/sanding floor/0PG6yWc1Dhc_000002_000012 284 249
+../dataset/Kinetics/val/sanding floor/-orecnYvpNw_000045_000055 284 250
+../dataset/Kinetics/val/clapping/-5ynhLqyws4_000213_000223 57 252
+../dataset/Kinetics/val/clapping/-aGmWWA-h3s_000070_000080 57 252
+../dataset/Kinetics/val/playing guitar/-PbHg505GzE_000000_000010 232 250
+../dataset/Kinetics/val/playing guitar/-KBf8XXQVXM_000026_000036 232 252
+../dataset/Kinetics/val/auctioning/-P6oVaW_u9E_000097_000107 9 252
+../dataset/Kinetics/val/beatboxing/5J2GWdeaVQ8_000026_000036 16 250
+../dataset/Kinetics/val/counting money/-02UO1KSdZ0_000025_000035 74 252
+../dataset/Kinetics/val/swinging on something/-1AV2VguEDw_000136_000146 344 252
+../dataset/Kinetics/val/swinging on something/-hFHCRlEO2c_000152_000162 344 250
+../dataset/Kinetics/val/ice climbing/3DuXaj84bQw_000044_000054 162 252
+../dataset/Kinetics/val/scuba diving/-u5A74I0--M_000012_000022 286 250
+../dataset/Kinetics/val/scuba diving/-gqlA679_f8_000163_000173 286 252
+../dataset/Kinetics/val/drawing/2v5kTahomcw_000034_000044 98 252
+../dataset/Kinetics/val/drop kicking/0qWpaHLpwpU_000003_000013 105 190
+../dataset/Kinetics/val/shining shoes/-2C-yeMmge0_000003_000013 295 252
+../dataset/Kinetics/val/kicking soccer ball/08exh0TpOlM_000041_000051 175 252
+../dataset/Kinetics/val/kicking soccer ball/-aQR-rCWaVQ_000016_000026 175 252
+../dataset/Kinetics/val/peeling potatoes/0ctdGZygYeU_000001_000011 211 252
+../dataset/Kinetics/val/peeling potatoes/-_hu_Ld-ddk_000007_000017 211 252
+../dataset/Kinetics/val/snorkeling/-2KHLx4pKbc_000131_000141 321 252
+../dataset/Kinetics/val/snorkeling/-4cgAtLBvTc_000003_000013 321 252
+../dataset/Kinetics/val/cooking egg/2GjXVYEc7J8_000018_000028 71 189
+../dataset/Kinetics/val/cooking egg/1koxtPz76MU_000041_000051 71 250
+../dataset/Kinetics/val/playing kickball/-dvwA0Hzj6s_000058_000068 237 252
+../dataset/Kinetics/val/playing kickball/-1QTRLQSzhQ_000145_000155 237 252
+../dataset/Kinetics/val/dribbling basketball/-QhxoSeCqYE_000065_000075 99 252
+../dataset/Kinetics/val/dribbling basketball/0XHT4ID7Wkk_000004_000014 99 148
+../dataset/Kinetics/val/hockey stop/-jTsiLl3m3w_000193_000203 154 252
+../dataset/Kinetics/val/hockey stop/0Or4d0SDLLo_000009_000019 154 153
+../dataset/Kinetics/val/blowing glass/-3ZP0DrCnOQ_000136_000146 24 250
+../dataset/Kinetics/val/blowing glass/7JIc6C6ZYfE_000068_000078 24 252
+../dataset/Kinetics/val/passing American football (in game)/-HxBTALkZT4_000000_000010 208 252
+../dataset/Kinetics/val/passing American football (in game)/-b6gqj_mZOs_000009_000019 208 164
+../dataset/Kinetics/val/riding elephant/-4jhRyZILBc_000003_000013 269 252
+../dataset/Kinetics/val/riding elephant/-5JKWL9AKOY_000004_000014 269 250
+../dataset/Kinetics/val/moving furniture/5n5D-KU3uVA_000005_000015 200 252
+../dataset/Kinetics/val/moving furniture/-D6-UmndVJk_000001_000011 200 252
+../dataset/Kinetics/val/cartwheeling/-6CM7VV8-_w_000262_000272 45 250
+../dataset/Kinetics/val/cartwheeling/-0yP0wBW_uQ_000003_000013 45 252
+../dataset/Kinetics/val/applying cream/-OpOh05PYcw_000002_000012 4 252
+../dataset/Kinetics/val/applying cream/-mouPHwsYD8_000089_000099 4 252
+../dataset/Kinetics/val/playing recorder/3pZ3Nvm4jo0_000000_000010 243 252
+../dataset/Kinetics/val/playing recorder/4Oo0Y7XYWs0_000005_000015 243 252
+../dataset/Kinetics/val/cooking on campfire/-3q1QUUKZ0c_000038_000048 72 252
+../dataset/Kinetics/val/cooking on campfire/-c1JrpgLek0_000011_000021 72 252
+../dataset/Kinetics/val/long jump/0CViJao5YLY_000004_000014 182 250
+../dataset/Kinetics/val/long jump/2ZtsLtiB2xA_000435_000445 182 252
+../dataset/Kinetics/val/tying tie/-irXG0K3Wfo_000126_000136 370 252
+../dataset/Kinetics/val/tying tie/-0byZyStAYQ_000054_000064 370 252
+../dataset/Kinetics/val/playing monopoly/0CDEub034JA_000041_000051 238 250
+../dataset/Kinetics/val/sneezing/-ayNZ5bs7EQ_000011_000021 319 250
+../dataset/Kinetics/val/sneezing/-jClw4auvvg_000024_000034 319 195
+../dataset/Kinetics/val/springboard diving/067bPEpLkys_000154_000164 329 252
+../dataset/Kinetics/val/exercising arm/-6JUsK8Xc1M_000004_000014 119 250
+../dataset/Kinetics/val/exercising arm/-ABVyFqo4rc_000000_000010 119 250
+../dataset/Kinetics/val/making a sandwich/5cbC1OGsnjk_000030_000040 185 252
+../dataset/Kinetics/val/making a sandwich/0dUkWf8gBkU_000345_000355 185 252
+../dataset/Kinetics/val/watering plants/27zZJ1gOfNc_000009_000019 385 250
+../dataset/Kinetics/val/watering plants/-48AuLUK1Is_000019_000029 385 252
+../dataset/Kinetics/val/stretching arm/169VArids5E_000021_000031 333 193
+../dataset/Kinetics/val/stretching arm/-t5Gz8E1Jeg_000014_000024 333 160
+../dataset/Kinetics/val/swimming backstroke/-GQLJ_dIk1Q_000131_000141 339 252
+../dataset/Kinetics/val/swimming backstroke/0VQwA3RcI7M_000016_000026 339 252
+../dataset/Kinetics/val/air drumming/--nQbRBEz2s_000104_000114 1 252
+../dataset/Kinetics/val/air drumming/2cPLjY5AWXU_000001_000011 1 252
+../dataset/Kinetics/val/feeding fish/-15UpGVyV4w_000001_000011 124 168
+../dataset/Kinetics/val/feeding fish/-LHB2aRRP5Q_000000_000010 124 252
+../dataset/Kinetics/val/filling eyebrows/--bGIeO_7Jo_000184_000194 126 252
+../dataset/Kinetics/val/krumping/1pEaxLFdOZY_000054_000064 179 252
+../dataset/Kinetics/val/krumping/3JxrK2Jt52Y_000754_000764 179 252
+../dataset/Kinetics/val/playing piano/-4c_tY98bNg_000053_000063 241 252
+../dataset/Kinetics/val/playing piano/-6wNVod8iag_000377_000387 241 252
+../dataset/Kinetics/val/getting a haircut/1TbqMvRphII_000010_000020 138 252
+../dataset/Kinetics/val/rock climbing/-5vr1M9jygc_000100_000110 278 252
+../dataset/Kinetics/val/rock climbing/2jXlO2nzHGE_000026_000036 278 252
+../dataset/Kinetics/val/playing bass guitar/-3dlwCvBgTI_000155_000165 221 250
+../dataset/Kinetics/val/playing bass guitar/--GF746y6UM_000496_000506 221 252
+../dataset/Kinetics/val/playing tennis/-cIFpF1gGbE_000013_000023 246 252
+../dataset/Kinetics/val/playing tennis/-whdHn9Mbcc_000000_000010 246 250
+../dataset/Kinetics/val/deadlifting/3Wf-PoZZz-E_000040_000050 88 252
+../dataset/Kinetics/val/using segway/3Httu_l2wIw_000015_000025 375 252
+../dataset/Kinetics/val/using segway/3LLaCQGLW8g_000151_000161 375 252
+../dataset/Kinetics/val/gymnastics tumbling/-Gfncisg2GE_000001_000011 147 85
+../dataset/Kinetics/val/gymnastics tumbling/-CiPki3XuVI_000002_000012 147 252
+../dataset/Kinetics/val/testifying/1ejgHKw8E3Y_000058_000068 354 250
+../dataset/Kinetics/val/testifying/5U0O1P6qgDI_000001_000011 354 252
+../dataset/Kinetics/val/yoga/-7M8Y3H6yoo_000136_000146 398 252
+../dataset/Kinetics/val/yoga/-Gb1pbOE32g_000032_000042 398 250
+../dataset/Kinetics/val/catching or throwing frisbee/-6k2ntyDP-c_000047_000057 49 252
+../dataset/Kinetics/val/catching or throwing frisbee/-0vBGWkPoq4_000031_000041 49 252
+../dataset/Kinetics/val/bobsledding/--gEBElruic_000067_000077 28 252
+../dataset/Kinetics/val/bobsledding/-8IjJv90K-M_000032_000042 28 252
+../dataset/Kinetics/val/building cabinet/-xouHTgezWE_000001_000011 38 252
+../dataset/Kinetics/val/building cabinet/--uGS0Y4D6k_000009_000019 38 252
+../dataset/Kinetics/val/snatch weight lifting/-6dvnbAds1Y_000020_000030 318 158
+../dataset/Kinetics/val/snatch weight lifting/-gGQapTcKuw_000002_000012 318 176
+../dataset/Kinetics/val/playing violin/-4Q0ouLt0GA_000052_000062 250 250
+../dataset/Kinetics/val/playing violin/--PwWfN1Ae4_000097_000107 250 250
+../dataset/Kinetics/val/writing/-B-GH43bTjk_000000_000010 396 252
+../dataset/Kinetics/val/writing/-3oo45vpQV4_000291_000301 396 250
+../dataset/Kinetics/val/changing oil/--rC9Wkh6HA_000179_000189 52 252
+../dataset/Kinetics/val/changing oil/-aJHPlJTesM_000734_000744 52 252
+../dataset/Kinetics/val/plastering/-Cf0liD1olk_000082_000092 216 250
+../dataset/Kinetics/val/plastering/15Bdq-oFfGw_000033_000043 216 252
+../dataset/Kinetics/val/dancing gangnam style/-PMG_RNHaQE_000204_000214 86 252
+../dataset/Kinetics/val/dancing gangnam style/-cIPyFZRweI_000003_000013 86 250
+../dataset/Kinetics/val/arm wrestling/-10xhPhBo0k_000498_000508 6 250
+../dataset/Kinetics/val/applauding/-r8c7F4tOI8_000054_000064 3 252
+../dataset/Kinetics/val/applauding/-PgjjBi_gqM_000047_000057 3 252
+../dataset/Kinetics/val/wrapping present/-0WZKTu0xNk_000112_000122 394 252
+../dataset/Kinetics/val/wrapping present/-om14lXEcNs_000005_000015 394 199
+../dataset/Kinetics/val/playing harmonica/-IlFdaVdEyU_000001_000011 233 252
+../dataset/Kinetics/val/playing harmonica/075wmEyfcUw_000025_000035 233 252
+../dataset/Kinetics/val/windsurfing/2elHqLIPUNA_000022_000032 393 252
+../dataset/Kinetics/val/windsurfing/0H3dSeJ58Hc_000009_000019 393 252
+../dataset/Kinetics/val/hopscotch/-9ILBd-ArtM_000000_000010 156 252
+../dataset/Kinetics/val/waxing eyebrows/-buq7C8Eqic_000011_000021 388 252
+../dataset/Kinetics/val/waxing eyebrows/-7iqslDS5vo_000163_000173 388 252
+../dataset/Kinetics/val/playing badminton/-9oeVZ1AF8s_000001_000011 218 252
+../dataset/Kinetics/val/trapezing/2tvza2t9458_000010_000020 364 252
+../dataset/Kinetics/val/trapezing/-RpAe8io4mU_000056_000066 364 252
+../dataset/Kinetics/val/sweeping floor/-8wsYw78yTc_000007_000017 338 252
+../dataset/Kinetics/val/sweeping floor/-HtFDlInHZM_000019_000029 338 250
+../dataset/Kinetics/val/eating ice cream/0L8ZcrRtFxI_001103_001113 115 252
+../dataset/Kinetics/val/eating ice cream/0fCDlKYkRxc_000081_000091 115 252
+../dataset/Kinetics/val/cheerleading/15KsrKdmFAY_000450_000460 55 252
+../dataset/Kinetics/val/cheerleading/-WEkSYkXrUM_000116_000126 55 252
+../dataset/Kinetics/val/cleaning toilet/0Bx8X5h5I5I_000061_000071 64 252
+../dataset/Kinetics/val/cleaning toilet/-0o2B1AEdoQ_000007_000017 64 252
+../dataset/Kinetics/val/belly dancing/-0L4z8D2eGs_000043_000053 18 252
+../dataset/Kinetics/val/yawning/2zEZr8_Hi3c_000000_000010 397 164
+../dataset/Kinetics/val/yawning/-cQG3mhrfxY_000022_000032 397 252
+../dataset/Kinetics/val/headbutting/mpc567YjueM_000002_000012 150 99
+../dataset/Kinetics/val/headbutting/l7Gu4f_poyI_000004_000014 150 252
+../dataset/Kinetics/val/headbutting/PzD2BkZye2U_000013_000023 150 181
+../dataset/Kinetics/val/headbutting/wg2VssX63t4_000004_000014 150 252
+../dataset/Kinetics/val/headbutting/GuJthR1xU6c_000019_000029 150 252
+../dataset/Kinetics/val/headbutting/culNKOLKAic_000023_000033 150 252
+../dataset/Kinetics/val/headbutting/dGWceu-2g4U_000014_000024 150 249
+../dataset/Kinetics/val/headbutting/1DoYOzmTSug_000007_000017 150 252
+../dataset/Kinetics/val/headbutting/d69_vu5xync_000025_000035 150 252
+../dataset/Kinetics/val/headbutting/baNE7y4yHKg_000004_000014 150 252
+../dataset/Kinetics/val/headbutting/Wf_jGBAa5T0_000002_000012 150 252
+../dataset/Kinetics/val/headbutting/SCet_oSUrEg_000001_000011 150 252
+../dataset/Kinetics/val/headbutting/1m1YYVYysA8_000001_000011 150 226
+../dataset/Kinetics/val/headbutting/ahaYM-hBWWg_000014_000024 150 252
+../dataset/Kinetics/val/headbutting/zqwKGGvPWZc_000016_000026 150 250
+../dataset/Kinetics/val/headbutting/reFsmQ8e0K0_000038_000048 150 252
+../dataset/Kinetics/val/headbutting/rFauTHMNsfs_000028_000038 150 249
+../dataset/Kinetics/val/headbutting/AChHPIKGDg4_000033_000043 150 249
+../dataset/Kinetics/val/headbutting/CLfvN3g7reA_000002_000012 150 27
+../dataset/Kinetics/val/headbutting/pTQGGyUuJtk_000000_000010 150 250
+../dataset/Kinetics/val/headbutting/1y-gidoW3I4_000011_000021 150 240
+../dataset/Kinetics/val/headbutting/hR6iX4vu7QI_000001_000011 150 252
+../dataset/Kinetics/val/headbutting/IMPfjjPQLnU_000138_000148 150 250
+../dataset/Kinetics/val/headbutting/wPg8f8VKAUw_000007_000017 150 197
+../dataset/Kinetics/val/headbutting/glw3qH0tyWs_000003_000013 150 51
+../dataset/Kinetics/val/headbutting/opWk1RGbPmg_000001_000011 150 211
+../dataset/Kinetics/val/headbutting/OZAkcJDoBOU_000010_000020 150 222
+../dataset/Kinetics/val/headbutting/gbRGBcYVkEw_000009_000019 150 180
+../dataset/Kinetics/val/headbutting/NFXYEiGZoTg_000004_000014 150 252
+../dataset/Kinetics/val/headbutting/mDKwkhe8J2w_000003_000013 150 252
+../dataset/Kinetics/val/headbutting/Qub8t8_s4Vw_000022_000032 150 252
+../dataset/Kinetics/val/headbutting/pSjc6_p2wD8_000003_000013 150 153
+../dataset/Kinetics/val/headbutting/ei3WgytfXnw_000002_000012 150 252
+../dataset/Kinetics/val/headbutting/2XxiZfKQh90_000064_000074 150 250
+../dataset/Kinetics/val/headbutting/cfStSY9dpCU_000002_000012 150 151
+../dataset/Kinetics/val/headbutting/iU8Ck6QV2cE_000040_000050 150 252
+../dataset/Kinetics/val/headbutting/st-DH1t0olM_000005_000015 150 153
+../dataset/Kinetics/val/headbutting/D7qJTi_6rzQ_000003_000013 150 250
+../dataset/Kinetics/val/headbutting/81YTRUEoMak_000004_000014 150 182
+../dataset/Kinetics/val/headbutting/Y1J-n7E0tn4_000029_000039 150 149
+../dataset/Kinetics/val/headbutting/1x6mWuYwruE_000004_000014 150 239
+../dataset/Kinetics/val/headbutting/rEfeiHjewiI_000006_000016 150 252
+../dataset/Kinetics/val/headbutting/q_8hDVV_83I_000003_000013 150 252
+../dataset/Kinetics/val/headbutting/uozo0l3Wtqg_000004_000014 150 252
+../dataset/Kinetics/val/headbutting/aC5txX6gJLI_000003_000013 150 57
+../dataset/Kinetics/val/headbutting/YksL9pae3Fg_000004_000014 150 252
+../dataset/Kinetics/val/headbutting/BKT5CRV_418_000000_000010 150 178
+../dataset/Kinetics/val/spinning poi/-sGcmYcU_QI_000035_000045 326 252
+../dataset/Kinetics/val/spinning poi/--sGO9m2Was_000000_000010 326 252
+../dataset/Kinetics/val/faceplanting/wu3oEKpw6N4_000000_000010 122 227
+../dataset/Kinetics/val/faceplanting/8heUql3B7hg_000010_000020 122 252
+../dataset/Kinetics/val/faceplanting/wdCcRngfyZw_000011_000021 122 252
+../dataset/Kinetics/val/faceplanting/aBJnzTcJ70o_000002_000012 122 243
+../dataset/Kinetics/val/faceplanting/tA2patyR1Pg_000009_000019 122 252
+../dataset/Kinetics/val/faceplanting/u5u9y_ltKCI_000008_000018 122 252
+../dataset/Kinetics/val/faceplanting/oOpaLCB7PbQ_000001_000011 122 252
+../dataset/Kinetics/val/faceplanting/-0ew-c0w7uc_000002_000012 122 234
+../dataset/Kinetics/val/faceplanting/tNc7TNzZ9VA_000002_000012 122 252
+../dataset/Kinetics/val/faceplanting/y0f7calGty4_000002_000012 122 115
+../dataset/Kinetics/val/faceplanting/e2LIBGlv2Ds_000016_000026 122 141
+../dataset/Kinetics/val/faceplanting/Nh25jQx6Y38_000000_000010 122 163
+../dataset/Kinetics/val/faceplanting/6q7v3O77NOI_000005_000015 122 114
+../dataset/Kinetics/val/faceplanting/-ri90Xykrxg_000002_000012 122 128
+../dataset/Kinetics/val/faceplanting/r9INzx9GaAk_000015_000025 122 247
+../dataset/Kinetics/val/faceplanting/_PwXWcCPrGA_000010_000020 122 252
+../dataset/Kinetics/val/faceplanting/hlUDq3QKZo8_000012_000022 122 161
+../dataset/Kinetics/val/faceplanting/6WPoVkWBBBI_000022_000032 122 176
+../dataset/Kinetics/val/faceplanting/kwuAR3lbRxI_000010_000020 122 252
+../dataset/Kinetics/val/faceplanting/r81d5eNm9Rs_000000_000010 122 252
+../dataset/Kinetics/val/faceplanting/3M8j8pPfGDA_000016_000026 122 252
+../dataset/Kinetics/val/faceplanting/dXhPdo54Eko_000001_000011 122 38
+../dataset/Kinetics/val/faceplanting/AX_CHNc1ThA_000001_000011 122 250
+../dataset/Kinetics/val/faceplanting/ad0MgJg_MBM_000053_000063 122 252
+../dataset/Kinetics/val/faceplanting/petld-72OXM_000001_000011 122 195
+../dataset/Kinetics/val/faceplanting/94uIR7fT_KM_000003_000013 122 75
+../dataset/Kinetics/val/faceplanting/iLpLgzIQIkQ_000000_000010 122 249
+../dataset/Kinetics/val/faceplanting/NgVb5pZw8Ak_000015_000025 122 154
+../dataset/Kinetics/val/faceplanting/J5n1A-NCuxU_000008_000018 122 177
+../dataset/Kinetics/val/faceplanting/8EMK8AoG3h8_000012_000022 122 250
+../dataset/Kinetics/val/faceplanting/tChIbM9u7t0_000003_000013 122 192
+../dataset/Kinetics/val/faceplanting/mKAvzPnh_Yw_000009_000019 122 222
+../dataset/Kinetics/val/faceplanting/GhG5PXDqmUY_000008_000018 122 252
+../dataset/Kinetics/val/faceplanting/HeEsL9yTiKg_000033_000043 122 250
+../dataset/Kinetics/val/faceplanting/3ht3zPeo7x0_000007_000017 122 250
+../dataset/Kinetics/val/faceplanting/0MJ9Rk0k92Q_000000_000010 122 249
+../dataset/Kinetics/val/faceplanting/4J22wFT7-LQ_000000_000010 122 150
+../dataset/Kinetics/val/faceplanting/Q0ITIDt6Z7E_000004_000014 122 188
+../dataset/Kinetics/val/faceplanting/iVLuQ9fIW6s_000002_000012 122 203
+../dataset/Kinetics/val/faceplanting/rpaTvmTPC0M_000002_000012 122 192
+../dataset/Kinetics/val/faceplanting/JqEEGvPSxxA_000001_000011 122 252
+../dataset/Kinetics/val/faceplanting/VN3-h6-aAls_000004_000014 122 194
+../dataset/Kinetics/val/faceplanting/83DIh7MkoG8_000009_000019 122 250
+../dataset/Kinetics/val/faceplanting/wL4EN5CBU9Q_000003_000013 122 42
+../dataset/Kinetics/val/faceplanting/fTob9z1OrpM_000010_000020 122 188
+../dataset/Kinetics/val/bouncing on trampoline/0peuHPypzu8_000026_000036 30 250
+../dataset/Kinetics/val/bouncing on trampoline/--oEIzy6Esc_000045_000055 30 252
+../dataset/Kinetics/val/eating watermelon/-xA_1WuydMU_000000_000010 117 252
+../dataset/Kinetics/val/trimming trees/-78_S6w2N80_000003_000013 366 252
+../dataset/Kinetics/val/trimming trees/-1th54-55Xc_000016_000026 366 251
+../dataset/Kinetics/val/cutting nails/-xk2Ym2NwSs_000011_000021 81 251
+../dataset/Kinetics/val/cutting nails/-aeOuOI3eN0_000219_000229 81 252
+../dataset/Kinetics/val/opening bottle/--TSmh3wj9I_000118_000128 203 252
+../dataset/Kinetics/val/opening bottle/-4szNHl4P0c_000012_000022 203 249
+../dataset/Kinetics/val/riding mountain bike/-3SGtk0coQg_001052_001062 271 252
+../dataset/Kinetics/val/riding mountain bike/-K4sb9_2bOM_000052_000062 271 250
+../dataset/Kinetics/val/carving pumpkin/-8jPV06bmhA_000046_000056 46 252
+../dataset/Kinetics/val/balloon blowing/3URFq-d2gLY_000106_000116 12 252
+../dataset/Kinetics/val/balloon blowing/2loWBp9BRi0_000007_000017 12 249
+../dataset/Kinetics/val/playing chess/-AiRXJWGXZQ_000055_000065 224 250
+../dataset/Kinetics/val/playing chess/0rnJX3pe3nY_000011_000021 224 252
+../dataset/Kinetics/val/taking a shower/3RdzszuykC4_000000_000010 347 250
+../dataset/Kinetics/val/taking a shower/-aVL2ammbT4_000209_000219 347 250
+../dataset/Kinetics/val/smoking hookah/1hOTjErQDjI_000002_000012 317 249
+../dataset/Kinetics/val/smoking hookah/-0BveUV52cM_000043_000053 317 252
+../dataset/Kinetics/val/juggling fire/-3lxPMlK8ag_000033_000043 170 252
+../dataset/Kinetics/val/juggling fire/-5dP_9DhRko_000006_000016 170 252
+../dataset/Kinetics/val/water skiing/19Hfe_y5P8U_000015_000025 383 252
+../dataset/Kinetics/val/water skiing/1Lh9kwQw1QQ_000127_000137 383 252
+../dataset/Kinetics/val/exercising with an exercise ball/-9V1qe3Lk2M_000001_000011 120 249
+../dataset/Kinetics/val/exercising with an exercise ball/-IWwu5GfvVg_000037_000047 120 252
+../dataset/Kinetics/val/shooting goal (soccer)/-Ue7X0BbZWY_000215_000225 297 250
+../dataset/Kinetics/val/javelin throw/1G9LS4XXJrU_000111_000121 166 250
+../dataset/Kinetics/val/javelin throw/--07WQ2iBlw_000001_000011 166 229
+../dataset/Kinetics/val/kissing/-HaSHk661h4_000188_000198 176 250
+../dataset/Kinetics/val/kissing/-JODrHxjs2Q_000003_000013 176 223
+../dataset/Kinetics/val/flying kite/0huAN2gC6Pc_000143_000153 130 252
+../dataset/Kinetics/val/flying kite/07xOT83TIG4_000040_000050 130 252
+../dataset/Kinetics/val/making sushi/-BGvHxisFII_000003_000013 190 252
+../dataset/Kinetics/val/making sushi/-C9gnkkNI6Y_000085_000095 190 252
+../dataset/Kinetics/val/blowing out candles/1X11ZC0IppQ_000012_000022 27 139
+../dataset/Kinetics/val/blowing out candles/-1RpglW_MLA_000020_000030 27 250
+../dataset/Kinetics/val/jumping into pool/-2csq_1UhMQ_000002_000012 172 252
+../dataset/Kinetics/val/jumping into pool/39Gq_VfELh8_000001_000011 172 252
+../dataset/Kinetics/val/spraying/-jPhOjjHIl0_000176_000186 328 252
+../dataset/Kinetics/val/spraying/-94oNUNdpQs_000012_000022 328 252
+../dataset/Kinetics/val/capoeira/O-X9JR6Sirs_000022_000032 43 200
+../dataset/Kinetics/val/capoeira/InNZhwbGI-0_000046_000056 43 252
+../dataset/Kinetics/val/capoeira/zI4BU14gBhE_000010_000020 43 250
+../dataset/Kinetics/val/capoeira/ZGIA3RHRMFc_000105_000115 43 250
+../dataset/Kinetics/val/capoeira/1eaYXyj0sTg_000036_000046 43 252
+../dataset/Kinetics/val/capoeira/KDA_DRqqDic_000000_000010 43 249
+../dataset/Kinetics/val/capoeira/oNx68xPoPSA_000019_000029 43 249
+../dataset/Kinetics/val/capoeira/6r_gJEvwLeo_000033_000043 43 252
+../dataset/Kinetics/val/capoeira/yOLnHlWjiFM_000111_000121 43 252
+../dataset/Kinetics/val/capoeira/L3TlfQmrF8c_000008_000018 43 252
+../dataset/Kinetics/val/capoeira/supYzs490EQ_000110_000120 43 249
+../dataset/Kinetics/val/capoeira/dt94OiNLpcc_000000_000010 43 250
+../dataset/Kinetics/val/capoeira/qB8FbdXvhxg_000026_000036 43 252
+../dataset/Kinetics/val/capoeira/cf9bnZGPmzw_000189_000199 43 250
+../dataset/Kinetics/val/capoeira/vYUfJD176IU_000122_000132 43 252
+../dataset/Kinetics/val/capoeira/udmG4gLusgE_000062_000072 43 250
+../dataset/Kinetics/val/capoeira/vk1bQak4j-A_000026_000036 43 252
+../dataset/Kinetics/val/capoeira/RSaClwb3VtM_000080_000090 43 250
+../dataset/Kinetics/val/capoeira/RkCJpG7v9cA_000006_000016 43 252
+../dataset/Kinetics/val/capoeira/MHJDFRjxO2w_000006_000016 43 250
+../dataset/Kinetics/val/capoeira/ETmRxmAbKmg_000004_000014 43 252
+../dataset/Kinetics/val/capoeira/H2XPyyYHuFg_000013_000023 43 252
+../dataset/Kinetics/val/capoeira/pUDgyU__KGc_000001_000011 43 249
+../dataset/Kinetics/val/capoeira/PLLIbYuVLsU_000030_000040 43 252
+../dataset/Kinetics/val/capoeira/lm6ibanrGK8_000000_000010 43 249
+../dataset/Kinetics/val/capoeira/o-chPcT-9Xw_000016_000026 43 189
+../dataset/Kinetics/val/capoeira/RMqkQOBQv8U_000001_000011 43 249
+../dataset/Kinetics/val/capoeira/vWPCvR3PDFU_000068_000078 43 249
+../dataset/Kinetics/val/capoeira/JCNc6PJB56A_000137_000147 43 252
+../dataset/Kinetics/val/capoeira/TrMvpq17VYM_000224_000234 43 252
+../dataset/Kinetics/val/capoeira/dXYur5IbXl0_000002_000012 43 252
+../dataset/Kinetics/val/capoeira/kYS8byJ78U4_000038_000048 43 250
+../dataset/Kinetics/val/capoeira/wDUC0nJU5RM_000017_000027 43 250
+../dataset/Kinetics/val/capoeira/PL22nf_UK6A_000090_000100 43 250
+../dataset/Kinetics/val/capoeira/F2iORW_RODU_000312_000322 43 252
+../dataset/Kinetics/val/capoeira/4iDbVXBJwuo_000000_000010 43 250
+../dataset/Kinetics/val/capoeira/oKWr0-Z4X0Q_000004_000014 43 250
+../dataset/Kinetics/val/capoeira/Tmr3oMQrQik_000052_000062 43 250
+../dataset/Kinetics/val/capoeira/j7oVAD961_U_000038_000048 43 251
+../dataset/Kinetics/val/capoeira/sWEjy_ksmkE_000169_000179 43 252
+../dataset/Kinetics/val/capoeira/g7QIUKhWiKg_000047_000057 43 252
+../dataset/Kinetics/val/capoeira/QmgeX2tHhuw_000017_000027 43 252
+../dataset/Kinetics/val/capoeira/7G69tAiXh2U_000052_000062 43 250
+../dataset/Kinetics/val/capoeira/PkDmOd1vbwE_000001_000011 43 250
+../dataset/Kinetics/val/capoeira/--o545tThdQ_000088_000098 43 252
+../dataset/Kinetics/val/capoeira/AE8lCWReKHo_000074_000084 43 252
+../dataset/Kinetics/val/roller skating/-1xDshoKGiw_000168_000178 280 252
+../dataset/Kinetics/val/roller skating/0KMwj0US2dE_000151_000161 280 252
+../dataset/Kinetics/val/garbage collecting/02hk_9H_5hQ_000105_000115 136 252
+../dataset/Kinetics/val/garbage collecting/0Pg-veCh7P4_000503_000513 136 250
+../dataset/Kinetics/val/bookbinding/-3otOHOo7kY_000146_000156 29 252
+../dataset/Kinetics/val/bookbinding/-4m_QzxDvxc_000068_000078 29 250
+../dataset/Kinetics/val/golf putting/6Cwq13Oaays_000025_000035 143 250
+../dataset/Kinetics/val/golf putting/4WmFKoJghYM_000060_000070 143 250
+../dataset/Kinetics/val/juggling soccer ball/-6FiS3sFBSk_000088_000098 171 250
+../dataset/Kinetics/val/playing ukulele/--SOz3xjWfA_000037_000047 249 213
+../dataset/Kinetics/val/playing ukulele/11mwp0SbeWI_000053_000063 249 250
+../dataset/Kinetics/val/pole vault/-eq5-ZoYv4Y_000006_000016 253 250
+../dataset/Kinetics/val/pole vault/31HpZXS24Hc_000004_000014 253 151
+../dataset/Kinetics/val/baby waking up/-1DQLnNEH8g_000003_000013 10 250
+../dataset/Kinetics/val/baby waking up/-0OK3nbLKgM_000012_000022 10 250
+../dataset/Kinetics/val/dancing ballet/1svbHIV88gk_000025_000035 84 252
+../dataset/Kinetics/val/dancing ballet/-WmjG9gBUTI_000301_000311 84 250
+../dataset/Kinetics/val/shuffling cards/-344DMDbxtw_000019_000029 301 252
+../dataset/Kinetics/val/shuffling cards/-2FbowxhzfQ_000067_000077 301 252
+../dataset/Kinetics/val/unboxing/0OGDlNNH14Y_000019_000029 371 250
+../dataset/Kinetics/val/unboxing/0i1lP-WyXLU_000081_000091 371 252
+../dataset/Kinetics/val/doing aerobics/0f4-7AL8Fdk_000131_000141 95 252
+../dataset/Kinetics/val/doing aerobics/-53DvfE42gE_001767_001777 95 250
+../dataset/Kinetics/val/chopping wood/2kpaZvmqiYA_000005_000015 56 250
+../dataset/Kinetics/val/chopping wood/51faGoLPJgM_000000_000010 56 224
+../dataset/Kinetics/val/riding mule/-9Rcf4Fzed8_000002_000012 272 252
+../dataset/Kinetics/val/riding mule/0x6wV-RDB4A_000017_000027 272 252
+../dataset/Kinetics/val/celebrating/-1GsilN0qjU_000025_000035 51 250
+../dataset/Kinetics/val/celebrating/2lBUaUBD9JE_000018_000028 51 252
+../dataset/Kinetics/val/reading book/-CQPR7e8xKE_000000_000010 264 252
+../dataset/Kinetics/val/reading book/-5EyYMSM5eo_000378_000388 264 250
+../dataset/Kinetics/val/tasting food/-6KfcOhyCtI_000042_000052 353 252
+../dataset/Kinetics/val/tasting food/-F4jKfyxGQ4_000108_000118 353 252
+../dataset/Kinetics/val/recording music/-IDv6_03HRU_000008_000018 266 252
+../dataset/Kinetics/val/climbing a rope/0pVGiAU6XEA_000011_000021 66 252
+../dataset/Kinetics/val/climbing a rope/-LMBynHkTmQ_000020_000030 66 252
+../dataset/Kinetics/val/catching fish/-2eq0citAJg_000018_000028 47 252
+../dataset/Kinetics/val/catching fish/-2yTc7WxGMM_000034_000044 47 251
+../dataset/Kinetics/val/diving cliff/-dQsbQfZ008_000006_000016 93 249
+../dataset/Kinetics/val/diving cliff/1MmjE51PeIE_000015_000025 93 252
+../dataset/Kinetics/val/decorating the christmas tree/-9NYViQRQaI_000055_000065 89 146
+../dataset/Kinetics/val/decorating the christmas tree/-1XzFG0hqAI_000001_000011 89 252
+../dataset/Kinetics/val/passing American football (not in game)/3lOm59ikq3A_000002_000012 209 126
+../dataset/Kinetics/val/sled dog racing/-bzEZZT8OSY_000053_000063 315 252
+../dataset/Kinetics/val/sled dog racing/0DXBrjeoaic_000057_000067 315 250
+../dataset/Kinetics/val/making a cake/-e_w1rF4RGg_000090_000100 184 252
+../dataset/Kinetics/val/making a cake/-CYI2yJHIj4_000150_000160 184 252
+../dataset/Kinetics/val/spray painting/2BBn3DzQHmE_000416_000426 327 252
+../dataset/Kinetics/val/spray painting/0-NiXohf8vM_000112_000122 327 252
+../dataset/Kinetics/val/playing accordion/1gQkxY9-sL4_000006_000016 217 252
+../dataset/Kinetics/val/playing accordion/0yyodmE6cGg_000463_000473 217 250
+../dataset/Kinetics/val/opening present/-1Gh2yyYY7M_000019_000029 204 252
+../dataset/Kinetics/val/opening present/1DAtchstb_4_000004_000014 204 250
+../dataset/Kinetics/val/wrestling/m9L74hkTkyA_000097_000107 395 171
+../dataset/Kinetics/val/wrestling/UPWl0edoFtg_000030_000040 395 252
+../dataset/Kinetics/val/wrestling/QbDMgHWwt_s_000028_000038 395 210
+../dataset/Kinetics/val/wrestling/RtEkCritG_c_000000_000010 395 192
+../dataset/Kinetics/val/wrestling/UQRDFF3ZK7o_000215_000225 395 252
+../dataset/Kinetics/val/wrestling/aRV4rcqwme0_000008_000018 395 252
+../dataset/Kinetics/val/wrestling/Z0nfPTEEOLo_000081_000091 395 252
+../dataset/Kinetics/val/wrestling/PN7G-TMzUlc_000010_000020 395 250
+../dataset/Kinetics/val/wrestling/oeg6t8K-UHg_000108_000118 395 252
+../dataset/Kinetics/val/wrestling/wuiRTzkYl3s_000046_000056 395 250
+../dataset/Kinetics/val/wrestling/PLTEMu8XQIs_000003_000013 395 249
+../dataset/Kinetics/val/wrestling/RtFa1AMua5I_000122_000132 395 252
+../dataset/Kinetics/val/wrestling/iJybVigAu6Q_000195_000205 395 252
+../dataset/Kinetics/val/wrestling/CFLYr9t7oVs_000023_000033 395 252
+../dataset/Kinetics/val/wrestling/9vAGx0mL0-c_000008_000018 395 252
+../dataset/Kinetics/val/wrestling/yw6BNpz-z_Y_000077_000087 395 252
+../dataset/Kinetics/val/wrestling/IPOxlJCTJ1U_000261_000271 395 252
+../dataset/Kinetics/val/wrestling/UPoWxo4Fogw_000002_000012 395 250
+../dataset/Kinetics/val/wrestling/e9Engwappxk_000050_000060 395 252
+../dataset/Kinetics/val/wrestling/RtJdVHT1ZkM_000009_000019 395 252
+../dataset/Kinetics/val/wrestling/ETAqGJ7_FRQ_000000_000010 395 149
+../dataset/Kinetics/val/wrestling/wuZmDB5wsEM_000337_000347 395 252
+../dataset/Kinetics/val/wrestling/_UHqvOqbqzc_000012_000022 395 252
+../dataset/Kinetics/val/wrestling/SLHqXKWlQx4_000030_000040 395 252
+../dataset/Kinetics/val/wrestling/RtOe-FxLrz8_000666_000676 395 250
+../dataset/Kinetics/val/wrestling/amyWM-BZKQA_000073_000083 395 250
+../dataset/Kinetics/val/wrestling/wvv5BQBumH0_000391_000401 395 252
+../dataset/Kinetics/val/wrestling/UPmPkdaHMHM_000000_000010 395 250
+../dataset/Kinetics/val/wrestling/-BaXTkiViAE_000303_000313 395 252
+../dataset/Kinetics/val/wrestling/l6yiQOutQmQ_000662_000672 395 252
+../dataset/Kinetics/val/wrestling/RtsV72fCd7c_000091_000101 395 252
+../dataset/Kinetics/val/wrestling/14-8ECXgd6A_000136_000146 395 250
+../dataset/Kinetics/val/wrestling/5sr0Wgmn7BU_000085_000095 395 252
+../dataset/Kinetics/val/wrestling/IQHsCcud-zE_000037_000047 395 252
+../dataset/Kinetics/val/wrestling/RtaXRJLIziw_000175_000185 395 252
+../dataset/Kinetics/val/wrestling/KbOqOj7lzsg_000136_000146 395 252
+../dataset/Kinetics/val/wrestling/IP1FP6XqHtE_000117_000127 395 250
+../dataset/Kinetics/val/wrestling/c0cAryEFvHM_000005_000015 395 252
+../dataset/Kinetics/val/wrestling/KbIRKFTtSxk_000024_000034 395 252
+../dataset/Kinetics/val/wrestling/e7yErBOky1E_000001_000011 395 252
+../dataset/Kinetics/val/wrestling/UP_iRJv5mPU_000150_000160 395 252
+../dataset/Kinetics/val/wrestling/RtDDK_Q-Qrw_000001_000011 395 252
+../dataset/Kinetics/val/wrestling/SLFc6WXPdAc_000094_000104 395 252
+../dataset/Kinetics/val/wrestling/p7gsSdvZyG4_000230_000240 395 252
+../dataset/Kinetics/val/wrestling/IPVz9LcevTs_000078_000088 395 249
+../dataset/Kinetics/val/wrestling/wuwosfwfUvw_000071_000081 395 252
+../dataset/Kinetics/val/hammer throw/3Ld82f18SPc_000004_000014 148 115
+../dataset/Kinetics/val/hammer throw/-JN0MXb-zi8_000017_000027 148 252
+../dataset/Kinetics/val/playing cello/-23ykna85DI_000174_000184 223 211
+../dataset/Kinetics/val/playing cello/-5bYhwoDTTY_000173_000183 223 252
+../dataset/Kinetics/val/swimming breast stroke/0NmDAeOWzZQ_000004_000014 340 252
+../dataset/Kinetics/val/swimming breast stroke/0hVtX45KhS8_000075_000085 340 252
+../dataset/Kinetics/val/arranging flowers/-jToAVyxs-g_000046_000056 7 250
+../dataset/Kinetics/val/making jewelry/1-Gu8XdbVl8_000071_000081 187 252
+../dataset/Kinetics/val/making jewelry/-PB0FuE-fdA_000363_000373 187 252
+../dataset/Kinetics/val/breading or breadcrumbing/-_3E3GBXAUc_000010_000020 33 252
+../dataset/Kinetics/val/breading or breadcrumbing/-3LxDH4ZusU_000140_000150 33 250
+../dataset/Kinetics/val/playing didgeridoo/-wAAeKoi594_000008_000018 229 251
+../dataset/Kinetics/val/playing didgeridoo/0aAhM7nyEmM_000021_000031 229 187
+../dataset/Kinetics/val/bungee jumping/-7oDolWb3FI_000049_000059 40 252
+../dataset/Kinetics/val/bungee jumping/-3GJ6WdOrOw_000044_000054 40 252
+../dataset/Kinetics/val/holding snake/-NljOk6doRg_000030_000040 155 250
+../dataset/Kinetics/val/holding snake/-g5emSW-SOg_000010_000020 155 214
+../dataset/Kinetics/val/folding napkins/-QRY9rDrJf0_000001_000011 132 202
+../dataset/Kinetics/val/folding napkins/-5wLopwbGX0_000070_000080 132 252
+../dataset/Kinetics/val/doing nails/-4gdLcqRlSg_000255_000265 97 250
+../dataset/Kinetics/val/surfing crowd/031AhY-44lw_000003_000013 336 252
+../dataset/Kinetics/val/surfing crowd/-9bRguDPMXI_000072_000082 336 250
+../dataset/Kinetics/val/picking fruit/-nTtZiY1He0_000016_000026 214 252
+../dataset/Kinetics/val/picking fruit/-h0RIu0ggZs_000013_000023 214 252
+../dataset/Kinetics/val/eating doughnuts/2aSMcnH9l2Q_000016_000026 113 252
+../dataset/Kinetics/val/eating doughnuts/-3L9Zso_oHg_000001_000011 113 250
+../dataset/Kinetics/val/blowing leaves/-Bu-6oESyxQ_000012_000022 25 252
+../dataset/Kinetics/val/blowing leaves/-MV_iN5WXuw_000002_000012 25 249
+../dataset/Kinetics/val/jumpstyle dancing/-4aFe_kvUaI_000202_000212 173 250
+../dataset/Kinetics/val/bending back/0SuAwpjkU0c_000007_000017 20 252
+../dataset/Kinetics/val/checking tires/2-M5TagOHMw_000003_000013 54 252
+../dataset/Kinetics/val/checking tires/45pYBVw8kLY_000020_000030 54 252
+../dataset/Kinetics/val/cutting pineapple/-5NObVvJedg_000001_000011 82 126
+../dataset/Kinetics/val/cutting pineapple/-gJlTcI3jRI_000000_000010 82 252
+../dataset/Kinetics/val/playing poker/-0NQHRndkPI_000004_000014 242 252
+../dataset/Kinetics/val/playing poker/-_axH6kxbic_000003_000013 242 252
+../dataset/Kinetics/val/playing xylophone/2tF8a_0bYYA_000000_000010 252 252
+../dataset/Kinetics/val/playing xylophone/-hjrLwuG7A0_000001_000011 252 252
+../dataset/Kinetics/val/parasailing/-4jo2KgKd5U_000023_000033 206 252
+../dataset/Kinetics/val/washing hair/-3uOmg8TxNI_000014_000024 381 252
+../dataset/Kinetics/val/washing hair/-1HDL5IqExA_000018_000028 381 252
+../dataset/Kinetics/val/ice skating/1w4yKpgPGR8_000001_000011 164 252
+../dataset/Kinetics/val/ice skating/11KCs9EekNo_000001_000011 164 249
+../dataset/Kinetics/val/rock scissors paper/-8tBkfBtit8_000046_000056 279 173
+../dataset/Kinetics/val/rock scissors paper/5qqV2ZnH_4I_000030_000040 279 252
+../dataset/Kinetics/val/tying knot (not on a tie)/-b-YkpzFphk_000111_000121 369 252
+../dataset/Kinetics/val/jetskiing/-4dAJgJgxdE_000015_000025 167 252
+../dataset/Kinetics/val/jetskiing/-5-dvLrzE78_000027_000037 167 252
+../dataset/Kinetics/val/skiing (not slalom or crosscountry)/-HoiPytlLC4_000052_000062 308 250
+../dataset/Kinetics/val/skiing (not slalom or crosscountry)/-fs4VkPaYRw_000050_000060 308 252
+../dataset/Kinetics/val/playing keyboard/-9gU1fIB6TM_000023_000033 236 249
+../dataset/Kinetics/val/playing cymbals/1c81KtfYfE8_000027_000037 228 252
+../dataset/Kinetics/val/playing cymbals/--Y25nDn2Wk_000060_000070 228 252
+../dataset/Kinetics/val/pushing car/-J5UQsKRvJw_000055_000065 261 252
+../dataset/Kinetics/val/pushing car/-46DNkpyApI_000045_000055 261 252
+../dataset/Kinetics/val/cleaning windows/-FOfyuyabWQ_000016_000026 65 250
+../dataset/Kinetics/val/cleaning windows/-fN6cQFbu1M_000004_000014 65 252
+../dataset/Kinetics/val/welding/0egFLk5ZGIc_000012_000022 391 252
+../dataset/Kinetics/val/brushing hair/-ayhkSjMkms_000022_000032 36 252
+../dataset/Kinetics/val/brushing hair/-0CNBzthkZ4_000004_000014 36 252
+../dataset/Kinetics/val/disc golfing/-gun8tHqLIw_000031_000041 92 252
+../dataset/Kinetics/val/playing clarinet/0qb7N_CyrcM_000884_000894 225 250
+../dataset/Kinetics/val/playing clarinet/0aqVBIiRZAE_000135_000145 225 250
+../dataset/Kinetics/val/catching or throwing baseball/-C_s9oUnFek_000003_000013 48 197
+../dataset/Kinetics/val/catching or throwing baseball/-LZ6lnyP0BQ_000102_000112 48 252
+../dataset/Kinetics/val/hitting baseball/0Fet8TyoNR4_000007_000017 153 193
+../dataset/Kinetics/val/swimming butterfly stroke/-5yyKPocddE_000004_000014 341 250
+../dataset/Kinetics/val/swimming butterfly stroke/-15OAjLm520_000006_000016 341 252
+../dataset/Kinetics/val/mowing lawn/1dhlHTnoWBw_000028_000038 201 252
+../dataset/Kinetics/val/mowing lawn/-9i4bm2OiZ4_000010_000020 201 249
+../dataset/Kinetics/val/feeding goats/0mF342HNPTE_000034_000044 125 217
+../dataset/Kinetics/val/feeding goats/-3cl74lG6T4_000000_000010 125 212
+../dataset/Kinetics/val/riding camel/1WEhv0Znmaw_000009_000019 268 252
+../dataset/Kinetics/val/riding camel/-5fqwdtpSOY_000013_000023 268 249
+../dataset/Kinetics/val/clean and jerk/0-P_FPa2820_000006_000016 59 252
+../dataset/Kinetics/val/clean and jerk/--yCUKj4Oq4_000018_000028 59 252
+../dataset/Kinetics/val/playing ice hockey/ifW-F2koT4E_000058_000068 235 250
+../dataset/Kinetics/val/playing ice hockey/XuQ16JZ_OX4_000001_000011 235 224
+../dataset/Kinetics/val/playing ice hockey/bH-S32gOlCA_000174_000184 235 250
+../dataset/Kinetics/val/playing ice hockey/-LsQK3zOcwo_000194_000204 235 252
+../dataset/Kinetics/val/playing ice hockey/UKGWaUaRXi4_000095_000105 235 250
+../dataset/Kinetics/val/playing ice hockey/xCa8KZoRzbA_000101_000111 235 250
+../dataset/Kinetics/val/playing ice hockey/ripqAfmzCEg_000000_000010 235 183
+../dataset/Kinetics/val/playing ice hockey/baOVZxVVSvI_000000_000010 235 252
+../dataset/Kinetics/val/playing ice hockey/9Ze6tmq0Jvg_000170_000180 235 250
+../dataset/Kinetics/val/playing ice hockey/hd4T86WDKYE_000018_000028 235 252
+../dataset/Kinetics/val/playing ice hockey/7D4VHpfoPak_000053_000063 235 252
+../dataset/Kinetics/val/playing ice hockey/7AvQXjUUifQ_000002_000012 235 252
+../dataset/Kinetics/val/playing ice hockey/kxcgaNZVd-g_000009_000019 235 227
+../dataset/Kinetics/val/playing ice hockey/tQq8jNV61Is_000017_000027 235 252
+../dataset/Kinetics/val/playing ice hockey/48eBlzbR0n8_000004_000014 235 42
+../dataset/Kinetics/val/playing ice hockey/UPrqs0hX8Rk_000025_000035 235 182
+../dataset/Kinetics/val/playing ice hockey/kRWk_-5d5bs_000010_000020 235 252
+../dataset/Kinetics/val/playing ice hockey/bLuFiZDrt0o_000050_000060 235 250
+../dataset/Kinetics/val/playing ice hockey/uhA64isFmBE_000041_000051 235 252
+../dataset/Kinetics/val/playing ice hockey/vq6mYBlpX1E_000290_000300 235 250
+../dataset/Kinetics/val/playing ice hockey/cxor1r_kl2k_000007_000017 235 202
+../dataset/Kinetics/val/playing ice hockey/I6_2k-tsXG0_000186_000196 235 252
+../dataset/Kinetics/val/playing ice hockey/_SxAU4_1c_o_000003_000013 235 89
+../dataset/Kinetics/val/playing ice hockey/1z1HDy2-jQw_000002_000012 235 250
+../dataset/Kinetics/val/playing ice hockey/IG6am90-jZM_000003_000013 235 252
+../dataset/Kinetics/val/playing ice hockey/MoVPXjwpnHc_000184_000194 235 252
+../dataset/Kinetics/val/playing ice hockey/J1vjG5Auq1Q_000396_000406 235 252
+../dataset/Kinetics/val/playing ice hockey/DH_uqMhdyEk_000117_000127 235 252
+../dataset/Kinetics/val/playing ice hockey/ThN2G3zG2ew_000028_000038 235 252
+../dataset/Kinetics/val/playing ice hockey/FFFDl7ISAGM_000061_000071 235 252
+../dataset/Kinetics/val/playing ice hockey/B4XOE5mspq8_000004_000014 235 57
+../dataset/Kinetics/val/playing ice hockey/soaLU377oZA_000067_000077 235 252
+../dataset/Kinetics/val/playing ice hockey/sZ5VgTf9A2g_000286_000296 235 252
+../dataset/Kinetics/val/playing ice hockey/S-8ogZOLiWU_000019_000029 235 250
+../dataset/Kinetics/val/playing ice hockey/NnVvzEcQoh8_000042_000052 235 252
+../dataset/Kinetics/val/playing ice hockey/PBf__Wa6vO8_000200_000210 235 252
+../dataset/Kinetics/val/playing ice hockey/P80cmUoGfZ0_000125_000135 235 252
+../dataset/Kinetics/val/playing ice hockey/xekTZYIvSSE_000044_000054 235 228
+../dataset/Kinetics/val/playing ice hockey/wMXuw9M22VU_000672_000682 235 252
+../dataset/Kinetics/val/playing ice hockey/X4GRjs1zoEs_000011_000021 235 252
+../dataset/Kinetics/val/playing ice hockey/ErylxBbwF5U_000622_000632 235 252
+../dataset/Kinetics/val/playing ice hockey/ip9qfm3bpA4_000141_000151 235 252
+../dataset/Kinetics/val/playing ice hockey/IOsrEqzStgg_000046_000056 235 250
+../dataset/Kinetics/val/cleaning gutters/-bUy1bweZ1U_000023_000033 61 252
+../dataset/Kinetics/val/cleaning gutters/22xdXMMq6XE_000040_000050 61 252
+../dataset/Kinetics/val/sharpening pencil/2FuCzhX5hWg_000039_000049 291 252
+../dataset/Kinetics/val/stomping grapes/1geCWsTcDlM_000004_000014 332 252
+../dataset/Kinetics/val/stomping grapes/-SHNC6Z1B_g_000185_000195 332 252
+../dataset/Kinetics/val/clay pottery making/-qN2y4Dwwjk_000040_000050 58 252
+../dataset/Kinetics/val/clay pottery making/0dLt5IwxIU8_000021_000031 58 252
+../dataset/Kinetics/val/braiding hair/-cHi_8_2G34_000074_000084 32 250
+../dataset/Kinetics/val/baking cookies/-514AQUrSow_000058_000068 11 252
+../dataset/Kinetics/val/baking cookies/06HBsMpx9SM_000012_000022 11 252
+../dataset/Kinetics/val/throwing ball/-89t2FKhgJk_000003_000013 357 252
+../dataset/Kinetics/val/throwing ball/075Sp8SBR98_000000_000010 357 252
+../dataset/Kinetics/val/scrambling eggs/-16TZQLfXUc_000060_000070 285 250
+../dataset/Kinetics/val/scrambling eggs/-5EKnCsR9A8_000144_000154 285 252
+../dataset/Kinetics/val/playing saxophone/-zpKHNrNsn4_000226_000236 244 252
+../dataset/Kinetics/val/playing saxophone/--7VUM9MKg4_000136_000146 244 194
+../dataset/Kinetics/val/shaking head/--8FQVwWH0M_000003_000013 289 252
+../dataset/Kinetics/val/shaking head/-ZI_tlHaBgo_000006_000016 289 252
+../dataset/Kinetics/val/throwing discus/-d2997jIb3c_000000_000010 358 250
+../dataset/Kinetics/val/throwing discus/-EzA9QiSeQI_000013_000023 358 252
+../dataset/Kinetics/val/playing trumpet/2gi1aSciYmE_000012_000022 248 252
+../dataset/Kinetics/val/playing trumpet/-BtzVCzSnLk_000073_000083 248 252
+../dataset/Kinetics/val/tossing coin/2Bqu0x2lFSY_000030_000040 361 252
+../dataset/Kinetics/val/tossing coin/0scErPni0sE_000000_000010 361 200
+../dataset/Kinetics/val/singing/0L44b3HExVA_000031_000041 304 181
+../dataset/Kinetics/val/singing/-W07v4Ci-zY_000000_000010 304 252
+../dataset/Kinetics/val/ironing/2ewTGcayEyQ_000026_000036 165 250
+../dataset/Kinetics/val/ironing/3yMHI5j-BFE_000104_000114 165 250
+../dataset/Kinetics/val/pushing wheelchair/1eitPYFWFIY_000045_000055 263 252
+../dataset/Kinetics/val/pushing wheelchair/01BFInmg3Zs_000001_000011 263 252
+../dataset/Kinetics/val/bandaging/0IPSrG2K83M_000000_000010 13 252
+../dataset/Kinetics/val/bandaging/3nTMc2nK_W8_000000_000010 13 252
+../dataset/Kinetics/val/situp/-1DARulHLgw_000007_000017 305 252
+../dataset/Kinetics/val/situp/-iDQZbi59iY_000009_000019 305 252
+../dataset/Kinetics/val/kitesurfing/1lyLAsZLxKQ_000027_000037 177 252
+../dataset/Kinetics/val/kitesurfing/04g2ZAlBqzc_000067_000077 177 250
+../dataset/Kinetics/val/washing feet/-cTzRqHS9yo_000040_000050 380 250
+../dataset/Kinetics/val/washing feet/0_T8Jz14vuA_000219_000229 380 252
+../dataset/Kinetics/val/milking cow/-0-s1eu4sF4_000031_000041 197 252
+../dataset/Kinetics/val/milking cow/-2Fv5u2YO5s_000090_000100 197 252
+../dataset/Kinetics/val/sailing/-0IEt9-NeV4_000637_000647 282 250
+../dataset/Kinetics/val/sailing/2POcyzPhDnY_000002_000012 282 252
+../dataset/Kinetics/val/skiing slalom/--SrV9bGzRA_000197_000207 310 250
+../dataset/Kinetics/val/skiing slalom/-b6DTetUS9E_000034_000044 310 250
+../dataset/Kinetics/val/tying bow tie/-u1Cj9edMUI_000065_000075 368 250
+../dataset/Kinetics/val/tying bow tie/2ujJI-dSrG0_000145_000155 368 250
+../dataset/Kinetics/val/dancing charleston/0rhk4HYpN64_000304_000314 85 252
+../dataset/Kinetics/val/dancing charleston/-1KtlEOx78I_000009_000019 85 252
+../dataset/Kinetics/val/planting trees/-l14zBmCKo0_000121_000131 215 250
+../dataset/Kinetics/val/planting trees/05FnxqVf05w_000110_000120 215 250
+../dataset/Kinetics/val/grooming horse/0nk5QJHNanE_000049_000059 146 252
+../dataset/Kinetics/val/grooming horse/1RYKyKAYZOQ_000096_000106 146 250
+../dataset/Kinetics/val/making bed/-HiMSqjiJxk_000063_000073 186 252
+../dataset/Kinetics/val/push up/-51he86iZCY_000916_000926 260 252
+../dataset/Kinetics/val/push up/-3pjDfx73Aw_000109_000119 260 252
+../dataset/Kinetics/val/feeding birds/264oaD4orK0_000054_000064 123 252
+../dataset/Kinetics/val/feeding birds/1G2zxrAC7Q8_000002_000012 123 252
+../dataset/Kinetics/val/changing wheel/-sw4w8ht36s_000386_000396 53 250
+../dataset/Kinetics/val/changing wheel/-pu2XnPx3BM_000135_000145 53 250
+../dataset/Kinetics/val/robot dancing/4ik1sNDoQcM_000029_000039 277 252
+../dataset/Kinetics/val/robot dancing/43u8MlIRmhc_000011_000021 277 249
+../dataset/Kinetics/val/waiting in line/-3Pcrzag4_8_000014_000024 377 211
+../dataset/Kinetics/val/waiting in line/-5FU8vEKtyE_000009_000019 377 252
+../dataset/Kinetics/val/sharpening knives/1djw4VYHpqQ_000109_000119 290 252
+../dataset/Kinetics/val/playing volleyball/1_PaDQZHFok_000003_000013 251 252
+../dataset/Kinetics/val/playing volleyball/2Zm4Y65FpyM_000023_000033 251 252
+../dataset/Kinetics/val/eating hotdog/-2kJpg1NIzM_000003_000013 114 252
+../dataset/Kinetics/val/shaving legs/0XQ5DKQlT94_000045_000055 293 252
+../dataset/Kinetics/val/shaving legs/0brGLuDMUmk_000005_000015 293 252
+../dataset/Kinetics/val/salsa dancing/-3FihEVl-R8_000026_000036 283 252
+../dataset/Kinetics/val/salsa dancing/2JlC8lGuwms_000397_000407 283 252
+../dataset/Kinetics/val/climbing ladder/3kwhivj9Rhk_000038_000048 67 252
+../dataset/Kinetics/val/climbing ladder/2BBaELrmSvk_000002_000012 67 249
+../dataset/Kinetics/val/waxing back/0zKzCuulC4g_000088_000098 386 252
+../dataset/Kinetics/val/waxing back/43HFIdLD6h8_000192_000202 386 252
+../dataset/Kinetics/val/setting table/-mzTg9hPn5M_000096_000106 287 242
+../dataset/Kinetics/val/setting table/-2vSka0wXKY_000066_000076 287 250
+../dataset/Kinetics/val/shaving head/-0Eu83ggVq4_000235_000245 292 252
+../dataset/Kinetics/val/shaving head/-1-_dKO7AHo_000193_000203 292 252
+../dataset/Kinetics/val/eating carrots/5d7uG1loKw0_000135_000145 111 252
+../dataset/Kinetics/val/eating carrots/-1vQEXONh3Y_000723_000733 111 249
+../dataset/Kinetics/val/vault/-p9Jhg2jyD8_000021_000031 376 252
+../dataset/Kinetics/val/vault/0_obbLl1Zyg_000035_000045 376 252
+../dataset/Kinetics/val/dying hair/-4JdZpx3zNk_000268_000278 108 252
+../dataset/Kinetics/val/dying hair/-7E9WiX7QfA_000053_000063 108 252
+../dataset/Kinetics/val/petting animal (not cat)/-o0JCIfoeqs_000084_000094 212 252
+../dataset/Kinetics/val/petting animal (not cat)/-Aw1GOyNtlI_000013_000023 212 249
+../dataset/Kinetics/val/cleaning pool/-0y_lDefNlc_000140_000150 62 252
+../dataset/Kinetics/val/cleaning pool/07JKxkp6TF8_000027_000037 62 250
+../dataset/Kinetics/val/cooking sausages/-LhTjRSC7Rk_000020_000030 73 252
+../dataset/Kinetics/val/cooking sausages/-0edhdVNyYk_000047_000057 73 250
+../dataset/Kinetics/val/tobogganing/-7Cd7uCCE3g_000000_000010 360 252
+../dataset/Kinetics/val/tobogganing/1a4CY64vDCk_000002_000012 360 252
+../dataset/Kinetics/val/massaging legs/-5DLQG80yh4_000232_000242 195 250
+../dataset/Kinetics/val/massaging legs/-9ukDeJE1C0_000692_000702 195 250
+../dataset/Kinetics/val/abseiling/0wR5jVB-WPk_000417_000427 0 252
+../dataset/Kinetics/val/abseiling/3caPS4FHFF8_000036_000046 0 252
+../dataset/Kinetics/val/kicking field goal/19zOVnkSOeM_000000_000010 174 190
+../dataset/Kinetics/val/skydiving/4lQqNKeEXhQ_000244_000254 312 250
+../dataset/Kinetics/val/skateboarding/0QOoTTe7cZc_000228_000238 306 252
+../dataset/Kinetics/val/skateboarding/-bQfgNsszaQ_000172_000182 306 252
+../dataset/Kinetics/val/hurling (sport)/04LMpZuQmEM_000023_000033 161 250
+../dataset/Kinetics/val/playing cricket/-49tMSUTnZg_000016_000026 227 252
+../dataset/Kinetics/val/playing cricket/-J8NeF13oN0_000017_000027 227 250
+../dataset/Kinetics/val/dancing macarena/-bOgXBuuge0_000048_000058 87 252
+../dataset/Kinetics/val/dancing macarena/-6hsbWBHZrE_000013_000023 87 252
+../dataset/Kinetics/val/hula hooping/--wYHtYMK9o_000008_000018 159 252
+../dataset/Kinetics/val/hula hooping/-niqevmo2Tc_000086_000096 159 250
+../dataset/Kinetics/val/presenting weather forecast/03dk7mneDU0_000137_000147 254 250
+../dataset/Kinetics/val/presenting weather forecast/-kahgmRD-4g_000004_000014 254 250
+../dataset/Kinetics/val/assembling computer/-C6BDDvJO4A_000045_000055 8 252
+../dataset/Kinetics/val/laughing/-d_UnNREYO4_000121_000131 180 252
+../dataset/Kinetics/val/archery/-Qz25rXdMjE_000014_000024 5 252
+../dataset/Kinetics/val/archery/-UJgyiWe500_000029_000039 5 252
+../dataset/Kinetics/val/canoeing or kayaking/0lqKvDiwZDc_000171_000181 42 252
+../dataset/Kinetics/val/canoeing or kayaking/0L4kvkUfs1U_000265_000275 42 252
+../dataset/Kinetics/val/peeling apples/-6GGk0vasfU_000013_000023 210 252
+../dataset/Kinetics/val/peeling apples/-aLdPxMzGhg_000000_000010 210 221
+../dataset/Kinetics/val/folding paper/-6c-sV_gmq0_000072_000082 133 250
+../dataset/Kinetics/val/massaging person's head/-huT_p-r_zA_001989_001999 196 252
+../dataset/Kinetics/val/punching bag/Tz2V5xhkB-c_000002_000012 258 252
+../dataset/Kinetics/val/punching bag/iTT8QewtIYM_000003_000013 258 252
+../dataset/Kinetics/val/punching bag/TrLB8kPcZ8Q_000006_000016 258 142
+../dataset/Kinetics/val/punching bag/ugkO-nQfvSo_000009_000019 258 252
+../dataset/Kinetics/val/punching bag/CqYuHYebpAI_000015_000025 258 242
+../dataset/Kinetics/val/punching bag/DZQxj1h2dTo_000163_000173 258 252
+../dataset/Kinetics/val/punching bag/SUhKIoo8Y7U_000011_000021 258 252
+../dataset/Kinetics/val/punching bag/nDNkyCjpxWQ_000139_000149 258 252
+../dataset/Kinetics/val/punching bag/xjCpQscMLuY_000003_000013 258 252
+../dataset/Kinetics/val/punching bag/3baFNAxC2YI_000012_000022 258 252
+../dataset/Kinetics/val/punching bag/HPHxxvmYmCw_000004_000014 258 252
+../dataset/Kinetics/val/punching bag/V4aVwAjN-H0_000205_000215 258 147
+../dataset/Kinetics/val/punching bag/pxYvBBXy1xY_000004_000014 258 152
+../dataset/Kinetics/val/punching bag/1L6K6TwLJl0_000063_000073 258 250
+../dataset/Kinetics/val/punching bag/6wq1muWiPX8_000038_000048 258 250
+../dataset/Kinetics/val/punching bag/98ndhuB9zIQ_000001_000011 258 244
+../dataset/Kinetics/val/punching bag/MHE2d1d7XOo_000020_000030 258 252
+../dataset/Kinetics/val/punching bag/nTyjO4pDrto_000000_000010 258 252
+../dataset/Kinetics/val/punching bag/dJ9grzkO230_000003_000013 258 116
+../dataset/Kinetics/val/punching bag/Oef3VceFO9s_000011_000021 258 249
+../dataset/Kinetics/val/punching bag/Db4dm5z99DA_000000_000010 258 251
+../dataset/Kinetics/val/punching bag/uNyyGgVCLxo_000064_000074 258 185
+../dataset/Kinetics/val/punching bag/Zldo8us8RlY_000230_000240 258 251
+../dataset/Kinetics/val/punching bag/0AZwSqSgCcc_000001_000011 258 252
+../dataset/Kinetics/val/punching bag/eNsSDS69PyY_000009_000019 258 250
+../dataset/Kinetics/val/punching bag/84VSc_4GFZg_000006_000016 258 219
+../dataset/Kinetics/val/punching bag/nlHm20xZgmE_000004_000014 258 195
+../dataset/Kinetics/val/punching bag/ni99AA9kgU0_000125_000135 258 250
+../dataset/Kinetics/val/punching bag/EYp2aM96sDs_000267_000277 258 252
+../dataset/Kinetics/val/punching bag/sO-bfohlyf8_000171_000181 258 252
+../dataset/Kinetics/val/punching bag/zr7y21HASOs_000021_000031 258 250
+../dataset/Kinetics/val/punching bag/kGwvVd66p_I_000215_000225 258 127
+../dataset/Kinetics/val/punching bag/_gPCy4ahhVk_000001_000011 258 162
+../dataset/Kinetics/val/punching bag/XRHPe2HDAx0_000000_000010 258 252
+../dataset/Kinetics/val/punching bag/c54-0dOxrac_000016_000026 258 251
+../dataset/Kinetics/val/punching bag/6Kx1WJvKQL8_000001_000011 258 252
+../dataset/Kinetics/val/punching bag/Ao1r4ZqNqBA_000005_000015 258 251
+../dataset/Kinetics/val/punching bag/shtbFZGVHl4_000018_000028 258 252
+../dataset/Kinetics/val/punching bag/ha6Kc7_j5xk_000151_000161 258 250
+../dataset/Kinetics/val/punching bag/sqOojwuFaFU_000002_000012 258 114
+../dataset/Kinetics/val/punching bag/9D3qPxBw_5E_000003_000013 258 249
+../dataset/Kinetics/val/punching bag/a93OIfslRCw_000002_000012 258 252
+../dataset/Kinetics/val/punching bag/1Qt1rnOOxjM_000041_000051 258 252
+../dataset/Kinetics/val/punching bag/4CiGtkayAP4_000002_000012 258 252
+../dataset/Kinetics/val/tapping pen/-5nG3N44v_A_000158_000168 351 252
+../dataset/Kinetics/val/tapping pen/-50rKj9WZgA_000028_000038 351 252
+../dataset/Kinetics/val/triple jump/-3xkPTxA7oc_000021_000031 367 240
+../dataset/Kinetics/val/triple jump/--oJV4vFNeI_000003_000013 367 64
+../dataset/Kinetics/val/juggling balls/22YkQbUA7iY_000180_000190 169 252
+../dataset/Kinetics/val/tasting beer/-h1tKOt3PI0_001921_001931 352 252
+../dataset/Kinetics/val/tasting beer/-ErtRXry_Ns_000179_000189 352 252
+../dataset/Kinetics/val/dodgeball/-a3gMNK8QpY_000025_000035 94 250
+../dataset/Kinetics/val/dodgeball/0-pmhSYTdI0_000048_000058 94 252
+../dataset/Kinetics/val/sniffing/-eXjiMsT1qk_000276_000286 320 250
+../dataset/Kinetics/val/sniffing/-1fippPF1oI_000002_000012 320 249
+../dataset/Kinetics/val/tai chi/8pQUt4pT4HU_000002_000012 346 252
+../dataset/Kinetics/val/tai chi/BbFbo987QEo_000057_000067 346 252
+../dataset/Kinetics/val/tai chi/lUsBb2Tg9nc_000080_000090 346 252
+../dataset/Kinetics/val/tai chi/zJSVv0QUbiM_000007_000017 346 252
+../dataset/Kinetics/val/tai chi/IO3qDxDsqcc_000206_000216 346 252
+../dataset/Kinetics/val/tai chi/EpkRTxllorU_000315_000325 346 250
+../dataset/Kinetics/val/tai chi/WZpYP1zXHEM_000025_000035 346 252
+../dataset/Kinetics/val/tai chi/kgIWRXPCO3I_000081_000091 346 250
+../dataset/Kinetics/val/tai chi/Kop0sDqOn-c_000253_000263 346 252
+../dataset/Kinetics/val/tai chi/TVssL7IWeIA_000030_000040 346 252
+../dataset/Kinetics/val/tai chi/MnKRRe5O0L4_000132_000142 346 249
+../dataset/Kinetics/val/tai chi/6KG0mbhejCs_000233_000243 346 250
+../dataset/Kinetics/val/tai chi/UOE1mw6VFCY_000257_000267 346 252
+../dataset/Kinetics/val/tai chi/eMlfRt6PFGc_000309_000319 346 252
+../dataset/Kinetics/val/tai chi/TlPB2ZIfe3o_000198_000208 346 252
+../dataset/Kinetics/val/tai chi/3TY8DJZlaFU_000018_000028 346 252
+../dataset/Kinetics/val/tai chi/nVsFa-kiFtg_000012_000022 346 252
+../dataset/Kinetics/val/tai chi/3QF0XHz2jt4_000003_000013 346 252
+../dataset/Kinetics/val/tai chi/xgdSrSuIiO8_000001_000011 346 252
+../dataset/Kinetics/val/tai chi/mgiM72pnseY_000139_000149 346 252
+../dataset/Kinetics/val/tai chi/7C8SE-1TWw0_000100_000110 346 252
+../dataset/Kinetics/val/tai chi/aPVukuAa5G4_000763_000773 346 252
+../dataset/Kinetics/val/tai chi/rVB5mshrxOo_000044_000054 346 250
+../dataset/Kinetics/val/tai chi/Mc4YKgNpyBc_000309_000319 346 252
+../dataset/Kinetics/val/tai chi/I6bgFvzMNbc_000015_000025 346 250
+../dataset/Kinetics/val/tai chi/CnsOEEuyrrI_000144_000154 346 250
+../dataset/Kinetics/val/tai chi/3-evHTgxa8M_000104_000114 346 252
+../dataset/Kinetics/val/tai chi/85KzSvi-l3w_000045_000055 346 252
+../dataset/Kinetics/val/tai chi/41b_VAeCX6k_000077_000087 346 252
+../dataset/Kinetics/val/tai chi/KZrUX5r1PCs_000001_000011 346 250
+../dataset/Kinetics/val/tai chi/luLGODGnXMc_000002_000012 346 252
+../dataset/Kinetics/val/tai chi/Oi0yPnqugRA_000002_000012 346 252
+../dataset/Kinetics/val/tai chi/Ye3IvM96h68_000133_000143 346 250
+../dataset/Kinetics/val/tai chi/shw0mwhhhrw_000036_000046 346 249
+../dataset/Kinetics/val/tai chi/KgdYwQqZPDc_000021_000031 346 250
+../dataset/Kinetics/val/tai chi/UtYqJGjafes_000106_000116 346 250
+../dataset/Kinetics/val/tai chi/SqSWaYFJHX8_000065_000075 346 252
+../dataset/Kinetics/val/tai chi/Kuq25gHT9Mg_000093_000103 346 252
+../dataset/Kinetics/val/tai chi/q5VENbOCL-o_000009_000019 346 252
+../dataset/Kinetics/val/tai chi/5B6XRLOXS_c_000134_000144 346 252
+../dataset/Kinetics/val/tai chi/xhdGPycW7Sw_000145_000155 346 250
+../dataset/Kinetics/val/tai chi/ADe2db9hApA_000063_000073 346 252
+../dataset/Kinetics/val/tai chi/8fyMEDcWBgE_000003_000013 346 206
+../dataset/Kinetics/val/tai chi/36TYRf8TcCc_000334_000344 346 252
+../dataset/Kinetics/val/tai chi/3exdpRbcMmA_000034_000044 346 252
+../dataset/Kinetics/val/tai chi/Xvuq6Frk_Jo_000004_000014 346 250
+../dataset/Kinetics/val/tai chi/K7PPzQYMn7Q_000134_000144 346 250
+../dataset/Kinetics/val/tai chi/7qQFLx_wF-g_000022_000032 346 250
+../dataset/Kinetics/val/playing drums/1MhMBG54x2U_000008_000018 230 252
+../dataset/Kinetics/val/playing drums/--RVKBMp_2M_000079_000089 230 252
+../dataset/Kinetics/val/playing harp/2Ii56ZyrvOw_000040_000050 234 250
+../dataset/Kinetics/val/playing harp/7TZOYU__Ta0_000053_000063 234 252
+../dataset/Kinetics/val/side kick/Po0nhrL0ZRI_000000_000010 302 252
+../dataset/Kinetics/val/side kick/KXVjzrn5p1M_000013_000023 302 250
+../dataset/Kinetics/val/side kick/lTo0ka6QI7k_000021_000031 302 249
+../dataset/Kinetics/val/side kick/_lJGEWWlx1Q_000051_000061 302 252
+../dataset/Kinetics/val/side kick/fVAkMkegQ34_000063_000073 302 252
+../dataset/Kinetics/val/side kick/JCi-N2geOEE_000000_000010 302 60
+../dataset/Kinetics/val/side kick/-6yaNVdS-2E_000000_000010 302 252
+../dataset/Kinetics/val/side kick/kOg0L6erSks_000000_000010 302 102
+../dataset/Kinetics/val/side kick/Z0Oc8zwHAz8_000047_000057 302 252
+../dataset/Kinetics/val/side kick/4bWuYG6bUFE_000070_000080 302 252
+../dataset/Kinetics/val/side kick/jLy0M7goLiQ_000000_000010 302 171
+../dataset/Kinetics/val/side kick/4B1n485Ln8Q_000016_000026 302 244
+../dataset/Kinetics/val/side kick/Oz-kxFxvZKY_000000_000010 302 252
+../dataset/Kinetics/val/side kick/1MHVz6_yccQ_000136_000146 302 252
+../dataset/Kinetics/val/side kick/xeT5-UyiqYg_000001_000011 302 252
+../dataset/Kinetics/val/side kick/jv7sZGByHiI_000024_000034 302 215
+../dataset/Kinetics/val/side kick/sBPBUV2QxPU_000025_000035 302 196
+../dataset/Kinetics/val/side kick/TgIdZSZi2JQ_000009_000019 302 250
+../dataset/Kinetics/val/side kick/BCdL5JXRUoI_000047_000057 302 252
+../dataset/Kinetics/val/side kick/uo4vnbfxyIw_000003_000013 302 252
+../dataset/Kinetics/val/side kick/DrA83FBfuks_000030_000040 302 164
+../dataset/Kinetics/val/side kick/Pjt1X924mro_000063_000073 302 252
+../dataset/Kinetics/val/side kick/xAVww41RL-w_000001_000011 302 106
+../dataset/Kinetics/val/side kick/flrm0OZxQGE_000002_000012 302 84
+../dataset/Kinetics/val/side kick/9isK6uLn7VI_000001_000011 302 137
+../dataset/Kinetics/val/side kick/iqkx0rrCUCo_000003_000013 302 252
+../dataset/Kinetics/val/side kick/Lti-qXl2fXc_000000_000010 302 175
+../dataset/Kinetics/val/side kick/tAOKE3n1kUI_000041_000051 302 252
+../dataset/Kinetics/val/side kick/2P8lXb3sJ64_000012_000022 302 201
+../dataset/Kinetics/val/side kick/E4pppKz6oa8_000136_000146 302 250
+../dataset/Kinetics/val/side kick/balaC8vxTMU_000001_000011 302 252
+../dataset/Kinetics/val/side kick/AtajgZFYXdk_000000_000010 302 252
+../dataset/Kinetics/val/side kick/6Us-MHfbbUo_000002_000012 302 175
+../dataset/Kinetics/val/side kick/EsE6Lj0c0Sg_000001_000011 302 252
+../dataset/Kinetics/val/side kick/jvorDE-7peU_000132_000142 302 252
+../dataset/Kinetics/val/side kick/MxQ27tAD7wU_000000_000010 302 252
+../dataset/Kinetics/val/side kick/gZtBcr-etnw_000002_000012 302 152
+../dataset/Kinetics/val/side kick/sZ8JiPfAoWc_000005_000015 302 252
+../dataset/Kinetics/val/side kick/bWt2pJz-0QY_000004_000014 302 252
+../dataset/Kinetics/val/side kick/J7nmyOFTlHU_000001_000011 302 237
+../dataset/Kinetics/val/side kick/OPjonSK9blk_000018_000028 302 252
+../dataset/Kinetics/val/side kick/KzKUfEz2P24_000148_000158 302 184
+../dataset/Kinetics/val/side kick/dsA_lKXh3yw_000004_000014 302 252
+../dataset/Kinetics/val/side kick/mBIQH4dtJjQ_000190_000200 302 252
+../dataset/Kinetics/val/side kick/lrwnS5FSvXo_000000_000010 302 250
+../dataset/Kinetics/val/side kick/iT2rFQfLClk_000000_000010 302 226
+../dataset/Kinetics/val/side kick/mVk6WpXXPgU_000004_000014 302 89
+../dataset/Kinetics/val/side kick/U_CeyCr_92c_000077_000087 302 252
+../dataset/Kinetics/val/side kick/-ceVJz9ULFM_000003_000013 302 90
+../dataset/Kinetics/val/catching or throwing softball/-1iWWmJmwzI_000048_000058 50 252
+../dataset/Kinetics/val/catching or throwing softball/-kdfl_GwOtE_000000_000010 50 252
+../dataset/Kinetics/val/marching/1m-Kdky1y84_000022_000032 192 252
+../dataset/Kinetics/val/marching/-0IErS_cisg_000017_000027 192 250
+../dataset/Kinetics/val/biking through snow/00cwEcZZcu4_000003_000013 22 252
+../dataset/Kinetics/val/biking through snow/-je0yLm8oRU_000026_000036 22 250
+../dataset/Kinetics/val/grinding meat/0vCVoz4j2Ak_000025_000035 144 250
+../dataset/Kinetics/val/contact juggling/-2HFZjPOCMk_000232_000242 69 250
+../dataset/Kinetics/val/contact juggling/129AqkjaR1Y_000000_000010 69 252
+../dataset/Kinetics/val/laying bricks/-2_KimSsCJ8_000015_000025 181 252
+../dataset/Kinetics/val/laying bricks/-sf01vs2YMg_000146_000156 181 250
+../dataset/Kinetics/val/running on treadmill/-D6dlwKg2Xs_000011_000021 281 249
+../dataset/Kinetics/val/running on treadmill/-KvDvP44fxc_000025_000035 281 252
+../dataset/Kinetics/val/shot put/-2zDnjMmI5U_000477_000487 298 143
+../dataset/Kinetics/val/shot put/0chik_yq4uA_000077_000087 298 252
+../dataset/Kinetics/val/extinguishing fire/-X1Allr_ZcY_000015_000025 121 252
+../dataset/Kinetics/val/extinguishing fire/0YCh9cXD5VY_000181_000191 121 252
+../dataset/Kinetics/val/driving car/-5EkeE4syvA_000006_000016 103 250
+../dataset/Kinetics/val/driving car/-54UGh2sZZk_000035_000045 103 164
+../dataset/Kinetics/val/sign language interpreting/2-J1ADkUN2c_000028_000038 303 252
+../dataset/Kinetics/val/sign language interpreting/06IRoSKPlFM_000175_000185 303 252
+../dataset/Kinetics/val/brushing teeth/0tlGOxUQ0Kw_000074_000084 37 252
+../dataset/Kinetics/val/brushing teeth/1ZkogIfJNR8_000029_000039 37 158
+../dataset/Kinetics/val/tango dancing/-KSenkRK0EE_000047_000057 348 250
+../dataset/Kinetics/val/tango dancing/0vlyI0pEXRs_000007_000017 348 250
+../dataset/Kinetics/val/snowkiting/-yEW1Xvb82w_000064_000074 323 252
+../dataset/Kinetics/val/snowkiting/-Tn37FK9K5M_000167_000177 323 252
+../dataset/Kinetics/val/making pizza/-bCYukCk6SE_000178_000188 188 250
+../dataset/Kinetics/val/making pizza/-0eUJLYCmbs_000001_000011 188 252
+../dataset/Kinetics/val/headbanging/0QpBzgw3Nd0_000000_000010 149 252
+../dataset/Kinetics/val/shoveling snow/39pt_hF13_k_000003_000013 299 252
+../dataset/Kinetics/val/shoveling snow/0AFL0KtXKRg_000097_000107 299 252
+../dataset/Kinetics/val/training dog/-g1KcIki0ww_000004_000014 363 252
+../dataset/Kinetics/val/cracking neck/-FSQTAHxmpg_000000_000010 76 195
+../dataset/Kinetics/val/cracking neck/-SdZ6USVLi4_000001_000011 76 59
+../dataset/Kinetics/val/golf driving/-L1mPUcEHQY_000000_000010 142 244
+../dataset/Kinetics/val/golf driving/08Exugf5OvU_000047_000057 142 250
+../dataset/Kinetics/val/playing flute/-0cS8MCIJZY_000006_000016 231 250
+../dataset/Kinetics/val/playing flute/-SdDjLIkBHc_000043_000053 231 252
+../dataset/Kinetics/val/jogging/-o14DWqqMIY_000051_000061 168 251
+../dataset/Kinetics/val/bartending/1-qCqfG-iMg_000040_000050 15 252
+../dataset/Kinetics/val/bartending/-M3_7e_exd8_000108_000118 15 252
+../dataset/Kinetics/val/skipping rope/38o0cPpR0Eo_000052_000062 311 250
+../dataset/Kinetics/val/skipping rope/1TWdrO8cCxA_000036_000046 311 250
+../dataset/Kinetics/val/drinking/06A7IVDdaXo_000091_000101 100 252
+../dataset/Kinetics/val/drinking/0JFH2o8xhOc_000013_000023 100 252
+../dataset/Kinetics/val/knitting/-1qwHuGXhuo_000016_000026 178 252
+../dataset/Kinetics/val/knitting/-neqpygEoXs_000026_000036 178 252
+../dataset/Kinetics/val/texting/-he92lx6vH0_000000_000010 355 250
+../dataset/Kinetics/val/texting/-0dYbFhZsGU_000237_000247 355 250
+../dataset/Kinetics/val/blowing nose/-3nc7ljnlFQ_000001_000011 26 252
+../dataset/Kinetics/val/blowing nose/-d7gxstQux4_000067_000077 26 252
+../dataset/Kinetics/val/playing paintball/-0ML-FXomBw_000001_000011 240 252
+../dataset/Kinetics/val/playing paintball/-lPaefDR9mw_000010_000020 240 252
+../dataset/Kinetics/val/eating spaghetti/-beyXnxwTao_000040_000050 116 187
+../dataset/Kinetics/val/eating spaghetti/-AEUGxV9mpg_000033_000043 116 250
+../dataset/Kinetics/val/cleaning shoes/-5I-VI9TP5k_000181_000191 63 250
+../dataset/Kinetics/val/somersaulting/-bNSABT92hQ_000006_000016 325 251
+../dataset/Kinetics/val/somersaulting/-4_Q07zuk0w_000003_000013 325 252
+../dataset/Kinetics/val/hoverboarding/39FeKLDt8FA_000037_000047 157 252
+../dataset/Kinetics/val/slapping/BqEQdy_IMeY_000000_000010 314 163
+../dataset/Kinetics/val/slapping/CRVyiuf54lw_000003_000013 314 252
+../dataset/Kinetics/val/slapping/TZiB77v9PU0_000004_000014 314 250
+../dataset/Kinetics/val/slapping/cb1ZfTSnNBk_000018_000028 314 252
+../dataset/Kinetics/val/slapping/8D-auRcxVRU_000001_000011 314 229
+../dataset/Kinetics/val/slapping/mh8ZXSqQKyY_000020_000030 314 250
+../dataset/Kinetics/val/slapping/86GKT1GCMAM_000003_000013 314 107
+../dataset/Kinetics/val/slapping/PbAstXAC1f0_000041_000051 314 252
+../dataset/Kinetics/val/slapping/P9i0ln4JrtM_000013_000023 314 252
+../dataset/Kinetics/val/slapping/_h6hzkHong8_000000_000010 314 245
+../dataset/Kinetics/val/slapping/fWDXUvC1zuo_000021_000031 314 250
+../dataset/Kinetics/val/slapping/fZvQvRpW3oM_000001_000011 314 236
+../dataset/Kinetics/val/slapping/umiYHGrB23M_000008_000018 314 252
+../dataset/Kinetics/val/slapping/TWrqyBZN5Tg_000001_000011 314 230
+../dataset/Kinetics/val/slapping/cmE9HB5-LpI_000000_000010 314 50
+../dataset/Kinetics/val/slapping/SQqBIeQEgEE_000000_000010 314 252
+../dataset/Kinetics/val/slapping/v82SRjsxORg_000020_000030 314 250
+../dataset/Kinetics/val/slapping/Vzce0qLM9e8_000000_000010 314 91
+../dataset/Kinetics/val/slapping/lEmMmiW_gWo_000015_000025 314 250
+../dataset/Kinetics/val/slapping/vWnWpCg0ElM_000011_000021 314 250
+../dataset/Kinetics/val/slapping/q_xCYRomGIc_000026_000036 314 250
+../dataset/Kinetics/val/slapping/-d7lSkOl0ZU_000059_000069 314 252
+../dataset/Kinetics/val/slapping/Y6Wcb4wqFRM_000002_000012 314 250
+../dataset/Kinetics/val/slapping/ZgDB_qWbFTE_000014_000024 314 252
+../dataset/Kinetics/val/slapping/w0N6nTEsOu4_000000_000010 314 250
+../dataset/Kinetics/val/slapping/B1gNzTo2qyE_000002_000012 314 252
+../dataset/Kinetics/val/slapping/2albmWipJAs_000000_000010 314 171
+../dataset/Kinetics/val/slapping/lN46b5RabSA_000018_000028 314 156
+../dataset/Kinetics/val/slapping/40FyF_g3L8s_000020_000030 314 249
+../dataset/Kinetics/val/slapping/--7goKgS4kc_000015_000025 314 252
+../dataset/Kinetics/val/slapping/AtmUxjr6ZFI_000004_000014 314 252
+../dataset/Kinetics/val/slapping/TbrZCdfSDVQ_000012_000022 314 250
+../dataset/Kinetics/val/slapping/_6PUxb47zJY_000000_000010 314 61
+../dataset/Kinetics/val/slapping/dPPXic0CuMk_000003_000013 314 175
+../dataset/Kinetics/val/slapping/nNEqggyAyuI_000039_000049 314 252
+../dataset/Kinetics/val/slapping/mCIeNEk3LBc_000007_000017 314 252
+../dataset/Kinetics/val/slapping/5NM5YEJINLw_000004_000014 314 250
+../dataset/Kinetics/val/slapping/oeTcLp5eskQ_000001_000011 314 252
+../dataset/Kinetics/val/slapping/H8Eazgr7xjM_000004_000014 314 252
+../dataset/Kinetics/val/slapping/WZcn1HdiNps_000004_000014 314 118
+../dataset/Kinetics/val/slapping/Nu3ya30pu5o_000000_000010 314 118
+../dataset/Kinetics/val/slapping/x7RQT9aHe1c_000021_000031 314 250
+../dataset/Kinetics/val/tap dancing/0-b4M8jssX8_000086_000096 349 252
+../dataset/Kinetics/val/tap dancing/-_pn5NxJmok_000004_000014 349 252
+../dataset/Kinetics/val/using computer/-M3L1_DmZWg_000041_000051 373 250
+../dataset/Kinetics/val/using computer/-5HXuZ5ryYo_000224_000234 373 249
+../dataset/Kinetics/val/playing squash or racquetball/-yUM3WwKQHM_000032_000042 245 252
+../dataset/Kinetics/val/playing squash or racquetball/-7arnYZJjKE_000104_000114 245 252
+../dataset/Kinetics/val/dunking basketball/7RUxUD_STDU_000031_000041 107 252
+../dataset/Kinetics/val/dunking basketball/-5jFf2thMKg_000027_000037 107 252
+../dataset/Kinetics/val/riding a bike/-IU5bU9_AT4_000020_000030 267 252
+../dataset/Kinetics/val/riding a bike/-dpojmwnPUI_000389_000399 267 252
+../dataset/Kinetics/val/flipping pancake/-yv8c2CDbR8_000004_000014 129 250
+../dataset/Kinetics/val/flipping pancake/--33Lscn6sk_000004_000014 129 161
+../dataset/Kinetics/val/sticking tongue out/-c0gEPZVGPo_000003_000013 331 252
+../dataset/Kinetics/val/sticking tongue out/-cMG2QyN-mE_000047_000057 331 252
+../dataset/Kinetics/val/skiing crosscountry/2bHgsn_J4E8_000030_000040 309 250
+../dataset/Kinetics/val/skiing crosscountry/-JyH941Q89Q_000115_000125 309 252
+../dataset/Kinetics/val/shredding paper/-FsB_A4A1Ks_000015_000025 300 252
+../dataset/Kinetics/val/shredding paper/0N3bmU-kCPI_000064_000074 300 252
+../dataset/Kinetics/val/front raises/-INebMIVKyo_000005_000015 134 252
+../dataset/Kinetics/val/front raises/-09lBxmFoWE_000030_000040 134 236
+../dataset/Kinetics/val/washing dishes/-l309dqYR-8_000113_000123 379 249
+../dataset/Kinetics/val/carrying baby/38Uv6dbQkWc_000132_000142 44 236
+../dataset/Kinetics/val/stretching leg/-2VKVjgNuE0_000000_000010 334 250
+../dataset/Kinetics/val/breakdancing/1YbLsCfZh6o_000004_000014 34 252
+../dataset/Kinetics/val/breakdancing/1OcA0gQFWjM_000082_000092 34 250
+../dataset/Kinetics/val/playing cards/4R6oGYtwqOA_000143_000153 222 252
+../dataset/Kinetics/val/playing cards/02K4QYwUR6k_000112_000122 222 252
+../dataset/Kinetics/val/finger snapping/0hR6cYHJGyU_000043_000053 127 250
+../dataset/Kinetics/val/finger snapping/--Kr1PZaPDI_000001_000011 127 114
+../dataset/Kinetics/val/eating burger/-FbSzomWtWw_000014_000024 109 252
+../dataset/Kinetics/val/eating burger/-AMpy1HyBfk_000261_000271 109 252
+../dataset/Kinetics/val/weaving basket/07YX_GR_cEE_000894_000904 390 252
+../dataset/Kinetics/val/weaving basket/-85kDMryJ9M_000577_000587 390 252
+../dataset/Kinetics/val/bending metal/0CcZv2sSMfs_000091_000101 21 252
+../dataset/Kinetics/val/bending metal/0JzTdkdyXIQ_000054_000064 21 252

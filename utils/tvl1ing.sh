@@ -1,0 +1,2 @@
+#g++ -std=c++11 tvl1_videoframes.cpp -o tvl1_videoframes -I/usr/local/include/opencv4/ -L/usr/local/lib64 -lopencv_objdetect -lopencv_features2d -lopencv_imgproc -lopencv_highgui -lopencv_core -lopencv_imgcodecs -lopencv_cudaoptflow -lopencv_cudaarithm
+g++ -std=c++11 tvl1_videoframes.cpp -o tvl1_videoframes -I/usr/local/include/opencv4/ -L/usr/local/lib/ -lopencv_objdetect -lopencv_features2d -lopencv_imgproc -lopencv_highgui -lopencv_core -lopencv_imgcodecs -lopencv_cudaoptflow -lopencv_cudaarithm
